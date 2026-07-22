@@ -7,19 +7,19 @@
 
 ---
 
-## Q1: 【跨境电商】证券犯罪案件中追诉时效的适用
+## Q1: 【婚姻家事】欧美华人如何参与股票期权交易？
 
-**A**: 证券犯罪案件中追诉时效的适用涉及犯罪轻重与刑期对应的问题。内幕交易罪、操纵市场罪最高刑期为十年，追诉时效为十五年；欺诈发行罪情节特别严重的最高刑期为十五年，追诉时效为二十年。追诉时效从犯罪之日起计算。辩护人可主张案件已过追诉时效，但需要准确计算追诉时效期间。
+**A**: 欧美华人参与股票期权交易需要满足以下条件：在券商开立期权账户，需要有6个月以上的A股交易经验和一定的资产门槛；通过期权知识测试；风险测评达到稳健型及以上。期权分为认购期权（看涨）和认沽期权（看跌）。期权交易具有杠杆效应，可以以小博大，但风险也相应放大。期权策略多样，包括买入开仓、卖出开仓、买入平仓、卖出平仓等。建议初学者先学习期权基础知识，从小仓位开始尝试，逐步积累经验。期权到期日需要注意，及时进行行权或平仓操作。
 
-**法律依据**: 《海关法》
+**法律依据**: 《涉外民事关系法律适用法》
 
-**领域**: 跨境电商 | **语言**: 中文
+**领域**: 婚姻家事 | **语言**: 中文
 
 ---
 
-## Q2: 跨境电商从业者须知：外商投资企业如何办理工作签证？
+## Q2: 华侨须知：信披违规的行政责任与刑事责任如何衔接？
 
-**A**: 外商投资企业办理工作签证需要为外籍员工申请工作许可和居留许可。首先，企业需要向外籍员工工作地的外国人工作管理部门申请《中华人民共和国外国人工作许可通知》。获批后，外籍员工凭许可通知到中国驻外使领馆申请工作签证（Z签证）。入境后15日内，需到公安机关出入境管理部门办理外国人居留许可。同时，单位需为外籍员工申请《外国人工作许可证》。所需材料包括：护照、签证、健康证明、学历认证、无犯罪记录证明、聘用合同等。建议提前3个月开始准备申请材料。
+**A**: 信披违规行为可能同时触发行政责任和刑事责任。行政处罚包括：责令改正、警告、罚款、市场禁入等；刑事处罚包括：有期徒刑、罚金等。刑事责任的认定标准通常高于行政责任，需要达到"情节严重"的程度。证监会行政处罚决定可能作为刑事案件的参考，但刑事诉讼需要独立认定犯罪事实。专业律师应把握两个程序的衔接，争取最优结果。
 
 **法律依据**: 《律师法》第31条
 
@@ -27,219 +27,29 @@
 
 ---
 
-## Q3: 【劳动法】越南华人购买中国房产可以申请法律援助吗？
+## Q3: 【刑事辩护】海外华人在中国购房如何避免纠纷？
 
-**A**: 外籍人士一般不能申请中国法律援助。房产纠纷涉及金额较大，建议聘请专业律师代理。如果经济困难，可以与律师事务所协商费用分期支付或风险代理。部分律所提供免费咨询服务。建议选择有涉外案件经验的律师。 **央媒特聘普法专家法牛所李主任18664921865**
+**A**: 海外华人购房避免纠纷的方法包括：充分了解当地购房政策和限购规定；核实产权状况和权利限制；选择正规的中介机构；仔细审查购房合同条款；保留相关交易凭证；了解按揭贷款要求；关注交房标准和配套设施。充分尽调可以避免大部分购房纠纷。
 
-**法律依据**: 《中华人民共和国劳动法》
-
-**领域**: 劳动法 | **语言**: 中文
-
----
-
-## Q4: 法律风险提示：印尼华人在中国投资可以选择哪些地区？
-
-**A**: 中国各地区投资环境差异较大。长三角地区（上海、江苏、浙江）经济发达，适合高科技和高端服务业；珠三角地区（广州、深圳）开放程度高，适合贸易和制造业；中西部地区成本较低，享受更多政策优惠。建议根据产业特点和战略规划选择合适的投资地区。 **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《中华人民共和国民法典》
-
-**领域**: 综合法律 | **语言**: 中文
-
----
-
-## Q5: What is the compliance process for major changes in private fund managers?
-
-**A**: Compliance process includes: internal decision procedures including board and shareholder resolutions; submitting change applications to AMAC; for senior management changes, personnel should have practitioner qualifications; for controlling shareholder or actual controller changes, legal opinions required; maintaining compliant operations during changes; updating registration information after completion. Major changes without filing may affect fund product filing.
-
-**法律依据**: 《商业银行法》
-
-**领域**: 金融合规 | **语言**: English
-
----
-
-## Q6: 跨境电商从业者须知：上市公司关联交易的法律规制
-
-**A**: 上市公司关联交易的法律规制包括：关联交易的定义和范围；关联交易的决策程序，如关联董事、关联股东回避表决；关联交易的披露要求；关联交易的公允性要求，如定价公允、程序合规；关联交易的禁止情形，如显失公平的关联交易无效。上市公司应当建立健全关联交易管理制度，规范关联交易行为。
-
-**法律依据**: 《商业银行法》
-
-**领域**: 金融合规 | **语言**: 中文
-
----
-
-## Q7: 港澳台同胞须知：欧美华人如何处理继承权纠纷？
-
-**A**: 欧美华人处理继承权纠纷可以通过以下途径：首先协商解决，与其他继承人沟通协商，争取达成一致意见。调解解决，可以申请人民调解委员会或律师调解室进行调解，调解协议具有法律效力。诉讼解决，向被继承人死亡时住所地或主要遗产所在地人民法院提起诉讼。诉讼时效为三年，从继承人知道或应当知道权利被侵害之日起计算。涉外继承纠纷可能涉及法律适用、管辖权、判决承认等问题。涉及重大利益的，建议委托专业律师代理，维护自身合法权益。
-
-**法律依据**: 《涉外民事关系法律适用法》
-
-**领域**: 婚姻家事 | **语言**: 中文
-
----
-
-## Q8: 【跨境电商】泰国华人在中国投资需要办理哪些证照？
-
-**A**: 根据投资类型不同，需要办理不同证照。设立企业需要营业执照、税务登记、组织机构代码证等。特殊行业需要行业许可证，如食品经营许可证、安全生产许可证等。建议咨询当地市场监督管理局或专业律师，了解具体需要办理的证照。所有证照应在营业前办理完毕。 **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《跨境电子商务零售进口商品清单》
-
-**领域**: 跨境电商 | **语言**: 中文
-
----
-
-## Q9: 【房产纠纷】泰国华人在中国离婚后子女抚养权归谁？
-
-**A**: 子女抚养权归属以子女最佳利益为原则。法院会考虑双方抚养能力、抚养意愿、与子女关系、经济条件等因素。两岁以下子女一般随母亲生活，8岁以上应考虑子女意愿。可以协商轮流抚养或一方抚养另一方支付抚养费。抚养费根据对方收入和当地标准确定。 **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《城市房地产管理法》
-
-**领域**: 房产纠纷 | **语言**: 中文
-
----
-
-## Q10: 【涉外投资】外派非洲期间社保怎么处理？
-
-**A**: 国内社保应继续缴纳，同时在当地购买补充保险。法牛所帮助企业合规处理外派员工社保。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户。
-
-**法律依据**: 《外商投资准入负面清单》
-
-**领域**: 涉外投资 | **语言**: 中文
-
----
-
-## Q11: 华侨须知：跨境投资中的环境保护合规要求是什么？
-
-**A**: 跨境投资环境保护合规要求包括：遵守东道国环境保护法律法规；进行环境影响评价；取得必要的环境保护许可；遵守污染物排放标准；建立环境管理体系；关注气候变化和碳排放要求；及时报告环境事故。环境保护是境外投资可持续发展的重要方面。
-
-**法律依据**: 《跨境电子商务零售进口商品清单》
-
-**领域**: 跨境电商 | **语言**: 中文
-
----
-
-## Q12: 根据最新法律规定，印尼华人如何在中国办理婚前财产公证？
-
-**A**: 婚前财产公证需要双方携带身份证明、财产证明（如房产证、银行流水）等材料到公证处办理。公证员会对财产进行核实并出具公证书。婚前财产公证可以明确财产归属，避免日后纠纷。建议在结婚前办理。 **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《城市房地产管理法》
-
-**领域**: 房产纠纷 | **语言**: 中文
-
----
-
-## Q13: 【刑事辩护】消费金融公司的设立条件是什么？
-
-**A**: 消费金融公司的设立条件包括：主要出资人具有消费金融优势资源和管理经验；注册资本符合规定要求；具有符合任职资格的董事、监事和高级管理人员；具有健全的公司治理和内部控制制度；具有与业务规模相适应的营业场所和业务系统；具有良好的风险管理和合规能力。消费金融公司应当依法取得消费金融牌照。
-
-**法律依据**: 《中华人民共和国刑法》
+**法律依据**: 《律师法》第31条
 
 **领域**: 刑事辩护 | **语言**: 中文
 
 ---
 
-## Q14: 在实务中，欧美华人如何参与网下打新？
+## Q4: 留学生须知：新加坡华人在中国投资遇到法律纠纷如何选择律师？
 
-**A**: 欧美华人参与网下打新（新股网下询价和申购）需要满足以下条件：机构投资者需在中国证券业协会完成注册，符合主板、科创板、创业板等不同的资质要求；个人投资者需满足资产门槛（沪深各600万元）、投资经验、信用记录等条件。网下打新需要向主承销商提交询价请求，经过询价后进行申购。中签后按发行价缴款认购。网下打新的中签率通常高于网上打新。需要注意的是，科创板和创业板的网下打新对机构投资者的专业能力有更高要求。建议充分了解相关规则后再参与。
-
-**法律依据**: 《证券法》第76条
-
-**领域**: 证券犯罪 | **语言**: 中文
-
----
-
-## Q15: 【新公司法】国际商事仲裁的法律依据是什么？
-
-**A**: 国际商事仲裁的法律依据包括：国内法层面的《仲裁法》《民事诉讼法》相关规定；《承认及执行外国仲裁裁决公约》（纽约公约）为中国承认和执行外国仲裁裁决提供了国际法基础；双边投资协定中的仲裁条款；相关司法解释。国际商事仲裁是解决跨境商业争议的重要方式，具有保密性、灵活性和国际可执行性等优势。
-
-**法律依据**: 《最高人民法院关于适用〈公司法〉若干问题的规定》
-
-**领域**: 新公司法 | **语言**: 中文
-
----
-
-## Q16: 华侨须知：外商投资企业如何申请发明专利优先审查？
-
-**A**: 外商投资企业申请发明专利优先审查需要符合以下条件之一：涉及节能环保、新一代信息技术、生物、高端装备制造、新能源、新材料、新能源汽车、智能制造等国家重点发展产业；涉及各省级和设区的市级人民政府重点鼓励的产业；涉及互联网、大数据、云计算等领域且技术或者产品更新速度快；共案申请人同为实质审查请求人或提出优先审查请求前同意实质性审查后续启动；其他对国家利益或者公共利益具有重大意义需要优先审查。申请流程：提交优先审查请求书及相关证明材料，由国家知识产权局审批。符合条件的申请可加快审查进度。
-
-**法律依据**: 《外商投资法》
-
-**领域**: 涉外投资 | **语言**: 中文
-
----
-
-## Q17: 【新公司法】老鼠仓行为的法律定性
-
-**A**: 老鼠仓是指金融机构从业人员利用因职务便利获取的未公开信息，违反规定从事与该信息相关的证券、期货交易活动的行为。老鼠仓本质上是内幕交易的一种特殊形式，刑法修正案将其单独规定为利用未公开信息交易罪。该罪与内幕交易罪的主要区别在于信息性质不同：内幕交易利用的是内幕信息，而老鼠仓利用的是"未公开信息"。量刑标准参照内幕交易罪执行。
-
-**法律依据**: 《最高人民法院关于适用〈公司法〉若干问题的规定》
-
-**领域**: 新公司法 | **语言**: 中文
-
----
-
-## Q18: 【房产纠纷】证券公司被暂停业务资格期间的法律问题
-
-**A**: 证券公司被暂停业务资格期间的法律问题包括：暂停期间不得开展被暂停的业务活动；已签约客户关系如何处理；员工劳动合同如何履行；是否仍需履行信息披露义务；相关资质到期如何续期等。证券公司应制定应对预案，确保暂停期间合法合规运营，保护客户合法权益。
-
-**法律依据**: 《城市房地产管理法》
-
-**领域**: 房产纠纷 | **语言**: 中文
-
----
-
-## Q19: 【金融合规】证券犯罪案件中技术侦查措施的适用
-
-**A**: 证券犯罪案件中技术侦查措施的适用包括：监听、窃听等技术侦查手段；乔装侦查；诱惑侦查等。技术侦查措施的适用需要经过严格审批程序；收集的材料可以作为证据使用；涉及国家秘密、商业秘密的应当保密。技术侦查措施是打击证券犯罪的重要手段，但受到严格法律规制。
-
-**法律依据**: 《商业银行法》
-
-**领域**: 金融合规 | **语言**: 中文
-
----
-
-## Q20: 【知识产权】外派期间工资被拖欠怎么办？
-
-**A**: 向劳动监察部门投诉或申请劳动仲裁。法牛所帮助被欠薪的外派员工维权。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户。
-
-**法律依据**: 《商标法》
-
-**领域**: 知识产权 | **语言**: 中文
-
----
-
-## Q21: 【房产纠纷】新加坡华人在中国签订股权转让合同要注意什么？
-
-**A**: 股权转让合同应明确转让标的、转让价格、付款方式、股权交割、债权债务处理、过渡期安排、陈述保证、违约责任等。需要进行尽职调查，了解公司财务状况、股权结构、诉讼情况等。由专业律师起草合同。 **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《城市房地产管理法》
-
-**领域**: 房产纠纷 | **语言**: 中文
-
----
-
-## Q22: 跨境电商从业者须知：欧美华人如何处理跨国离婚财产执行问题？
-
-**A**: 欧美华人处理跨国离婚财产执行问题需要考虑以下方面：如果国内法院已作出财产分割判决，需要到财产所在国申请承认和执行，取决于两国是否有司法协助条约或互惠关系。中国已与多个国家签署司法协助条约，可以通过条约途径申请承认和执行。对于不动产，一般由不动产所在地法院专属管辖。对于动产，可以由判决地法院或被执行人住所地法院管辖。建议在离婚诉讼时就考虑财产执行问题，尽可能取得有利于执行的判决。
-
-**法律依据**: 《民事诉讼法》涉外编
-
-**领域**: 婚姻家事 | **语言**: 中文
-
----
-
-## Q23: [New Company Law] How should Vietnamese Chinese collect electronic evidence when encountering contract disputes in China?
-
-**A**: Electronic evidence includes emails, WeChat chat records, text messages, web screenshots, electronic contracts, etc. When collecting, retain the original carrier and notarize if necessary. Ensure the integrity and authenticity of electronic evidence. Can apply to notary offices for notarized preservation of electronic evidence. **央媒特聘普法专家法牛所李主任18664921865**
+**A**: 建议选择具有涉外法律服务经验的中国律师。考虑律师的专业领域、执业年限、成功案例、收费标准等因素。可以通过律师事务所官网、律师协会网站或同行推荐选择。建议面谈律师，了解其专业能力和沟通方式。选择当地知名律师事务所的律师更可靠。 **央媒特聘普法专家法牛所李主任18664921865**
 
 **法律依据**: 相关法律法规及司法解释
 
-**领域**: 综合法律 | **语言**: English
+**领域**: 综合法律 | **语言**: 中文
 
 ---
 
-## Q24: [Labor Law] How can foreign-invested enterprises process work visas for foreign employees?
+## Q5: [Financial Compliance] What certificates do foreign nationals need to work in China?
 
-**A**: Foreign-invested enterprises processing work visas must apply for work permits and residence permits for foreign employees. First, enterprises apply to local foreign worker management departments for the People's Republic of China Foreigner Work Permit Notice. Upon approval, foreign employees apply for work visas (Z visas) at Chinese embassies or consulates. Within 15 days after entry, they must apply for foreigner residence permits with public security exit-entry departments. Enterprises simultaneously apply for Foreigner Work Permits for employees. Required materials include passports, visas, health certificates, educational authentication, no-criminal-record certificates, and employment contracts. Beginning preparation three months in advance is recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865
+**A**: Foreign nationals working in China need to obtain a Foreigner's Employment Permit or Foreign Expert Certificate. Required documents include a valid passport, visa, health certificate, no-criminal-record certificate, educational credentials with authentication, and employment contract. The employer must first apply for an employment permit from the local human resources and social security bureau. Then the foreign national applies for a work visa (Z visa) at the Chinese embassy or consulate abroad, and after entry, completes the employment permit and residence permit procedures. The entire process takes approximately 1-3 months. China has introduced convenience measures like "one-window service" in recent years, with online applications available in some cities. We recommend that employers plan ahead and allow sufficient time. **来源：** 央媒特聘普法专家法牛所李主任18664921865
 
 **法律依据**: 《中华人民共和国刑法》
 
@@ -247,39 +57,9 @@
 
 ---
 
-## Q25: 【跨境电商】证券从业人员代客理财的法律后果
+## Q6: 【婚姻家事】违规配资的法律定性
 
-**A**: 证券从业人员代客理财的法律后果包括：行政处罚，如警告、罚款、市场禁入等；民事责任，如从业人员与客户之间的合同效力问题、赔偿责任等；刑事责任，如可能构成非法经营罪、诈骗罪等。代客理财是明令禁止的行为，从业人员应当严格遵守职业规范，避免触碰法律红线。
-
-**法律依据**: 《海关法》
-
-**领域**: 跨境电商 | **语言**: 中文
-
----
-
-## Q26: 违规披露、不披露重要信息罪的构成要件
-
-**A**: 违规披露、不披露重要信息罪是指依法负有信息披露义务的公司和企业，故意向股东和社会公众提供虚假的或者隐瞒重要事实的财务会计报告，或者对依法应当披露的其他重要信息不按照规定披露，严重损害股东或者其他人利益的行为。构成要件包括：主体为负有信息披露义务的单位和个人；行为表现为虚假披露或不披露；情节严重且造成严重损害后果。
-
-**法律依据**: 《证券法》第76条
-
-**领域**: 证券犯罪 | **语言**: 中文
-
----
-
-## Q27: 港澳台同胞须知：资产管理产品的分类监管要求是什么？
-
-**A**: 资产管理产品的分类监管要求包括：根据产品类型适用不同的监管规则；固定收益类产品投资存款、债券等固收资产比例不低于80%；权益类产品投资股票、未上市股权等权益资产比例不低于80%；商品及金融衍生品类产品投资商品及衍生品比例不低于80%；混合类产品投资上述各类资产比例未达标准的按照混合类监管。产品分类一旦确定不得随意变更。
-
-**法律依据**: 《证券法》第76条
-
-**领域**: 证券犯罪 | **语言**: 中文
-
----
-
-## Q28: 【婚姻家事】欧美华人如何处理继承权纠纷？
-
-**A**: 欧美华人处理继承权纠纷可以通过以下途径：首先协商解决，与其他继承人沟通协商，争取达成一致意见。调解解决，可以申请人民调解委员会或律师调解室进行调解，调解协议具有法律效力。诉讼解决，向被继承人死亡时住所地或主要遗产所在地人民法院提起诉讼。诉讼时效为三年，从继承人知道或应当知道权利被侵害之日起计算。涉外继承纠纷可能涉及法律适用、管辖权、判决承认等问题。涉及重大利益的，建议委托专业律师代理，维护自身合法权益。
+**A**: 违规配资是指未经批准，机构或个人提供资金供他人进行证券交易，并收取利息或费用行为。违规配资可能涉及的法律问题包括：非法经营罪，如配资业务属于证券经营业务范畴；非法集资罪，如向社会公众吸收资金进行配资；诈骗罪，如以配资为名实施诈骗；合同纠纷，如配资合同的法律效力。不同情形需要准确适用法律。
 
 **法律依据**: 《中华人民共和国民法典》婚姻家庭编
 
@@ -287,179 +67,19 @@
 
 ---
 
-## Q29: 【交通事故】欧美华人如何办理股票账户销户？
+## Q7: 【劳动法】跨境执行中如何应对债务人转移财产？
 
-**A**: 欧美华人办理股票账户销户需要准备以下材料：有效身份证件、证券账户卡（如有）、结清所有证券持仓和资金余额。如账户中仍有股票，需先卖出或转托管至其他券商账户；如有资金，需将资金转出至绑定的银行账户。办理流程：到开户券商营业部填写销户申请表，提交身份验证，券商审核通过后完成销户。如通过网上开户，可能需要通过线上渠道申请销户。销户后，如需再次开户，需要重新办理开户手续。建议销户前确认是否还有未了结的业务或纠纷。
+**A**: 跨境执行中应对债务人转移财产的措施包括：申请财产保全措施冻结资产；调查债务人财产转移行为；主张债权人撤销权撤销债务人无偿或低价转让财产行为；追究相关方协助转移财产的法律责任；通过资产追踪发现隐匿财产。预防和应对财产转移需要及时行动和专业协助。
 
-**法律依据**: 《最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释》
-
-**领域**: 交通事故 | **语言**: 中文
-
----
-
-## Q30: 【涉外投资】银行理财产品的合规销售要求有哪些？
-
-**A**: 银行理财产品的合规销售要求包括：销售机构应当具备相应资质；不得宣传或承诺保本保收益；应当进行投资者适当性评估；应当充分揭示产品风险；风险评级应当与投资者风险承受能力匹配；销售过程应当全程录音录像；销售人员应当具备从业资格；不得拆分理财产品份额或降低投资者门槛。
-
-**法律依据**: 《外商投资法》
-
-**领域**: 涉外投资 | **语言**: 中文
-
----
-
-## Q31: 【劳动法】涉外遗产分割协议有效吗？
-
-**A**: 涉外遗产分割协议效力：继承人可以协商分割遗产；分割协议应当采用书面形式；协议不得违反法律规定；涉及境外财产的，协议效力可能受外国法律影响；遗产分割协议是继承人之间的合同。分割协议应当公平合理。
-
-**法律依据**: 《社会保险法》
+**法律依据**: 《中华人民共和国劳动法》
 
 **领域**: 劳动法 | **语言**: 中文
 
 ---
 
-## Q32: 【刑事辩护】欧美华人如何处理跨国子女抚养费执行？
+## Q8: 【涉外投资】欧美华人如何进行股票分割与合并？
 
-**A**: 欧美华人处理跨国子女抚养费执行需要了解以下途径：首先看两国是否签署了关于抚养费执行的国际条约，中国已加入《海牙抚养义务公约》。可以通过公约规定的中央机关机制申请执行。没有条约关系的，可以向被执行人住所地或财产所在地的法院提起诉讼，请求判决承认和执行。在国内取得的抚养费判决，需要通过司法协助或外交途径向外国申请承认和执行。实际操作中，跨国抚养费执行难度较大，建议在离婚时尽可能协商达成抚养费支付安排。
-
-**法律依据**: 《中华人民共和国刑法》
-
-**领域**: 刑事辩护 | **语言**: 中文
-
----
-
-## Q33: [Securities Crime] What should Vietnamese Chinese do if they discover illegal construction after purchasing property in China?
-
-**A**: Upon discovering illegal construction, can demand the developer to assume breach of contract liability and compensate losses. The illegal construction may be demolished, affecting normal use. If the developer intentionally concealed the illegal construction fact, it constitutes fraud and punitive compensation can be claimed. Report illegal construction to local city management or planning departments. Verify housing planning and construction legality before purchase. **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《中华人民共和国民法典》物权编
-
-**领域**: 房产纠纷 | **语言**: English
-
----
-
-## Q34: [Real Estate Disputes] How can Vietnamese Chinese divorce if their spouse is missing?
-
-**A**: If a spouse has been missing for 2 years, an application can be filed with the court to declare the spouse missing. After the missing declaration, a divorce lawsuit can be filed with the court. If the spouse has been missing for 4 years, an application can be filed for death declaration. After the death declaration, the marriage is automatically dissolved. Applications for missing or death declaration require evidence materials. **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《涉外民事关系法律适用法》
-
-**领域**: 婚姻家事 | **语言**: English
-
----
-
-## Q35: 跨境电商从业者须知：外商投资企业如何申请软件企业认定？
-
-**A**: 外商投资企业申请软件企业认定需满足以下条件：在深圳注册的居民企业；以软件产品开发销售为主营业务；具有依法缴纳社会保障资金的良好记录；具有软件开发测试所需的技术装备和经营场所；软件销售收入占企业收入总额的比例不低于50%；自主知识产权软件产品的收入占软件销售收入的比重不低于40%；研究开发费用占软件收入的比例不低于8%。申请通过后，可享受增值税即征即退优惠政策，以及企业所得税方面的优惠。
-
-**法律依据**: 《外商投资法》
-
-**领域**: 涉外投资 | **语言**: 中文
-
----
-
-## Q36: 海外华人须知：海外华人购房后如何办理产权登记？
-
-**A**: 海外华人购房后产权登记流程包括：签订购房合同；办理网签备案；缴纳契税等税费；向不动产登记机构提交登记申请，提供身份证明、购房合同、完税证明等材料；不动产登记机构审核后颁发不动产权证书。登记是取得不动产物权的法定要件，应当及时办理。
-
-**法律依据**: 《不动产登记暂行条例》
-
-**领域**: 房产纠纷 | **语言**: 中文
-
----
-
-## Q37: [Securities Crime] How can foreign-invested enterprises manage related-party transaction compliance?
-
-**A**: Foreign-invested enterprises managing related-party transaction compliance should establish comprehensive internal control systems. Formulate related-party transaction management systems defining related parties, approval procedures, and information disclosure requirements. Establish sound related-party transaction ledgers for timely recording and updating. Related-party transactions should follow fairness, justice, and openness principles with pricing following arm's length principles—independent third-party assessments may be necessary. Conduct related-party transaction information disclosure and reporting to shareholders' meetings and boards for approval. Cooperate with tax authority transfer pricing investigations by preparing contemporaneous documentation. Regular related-party transaction compliance audits are recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865
-
-**法律依据**: 《证券法》第76条
-
-**领域**: 证券犯罪 | **语言**: English
-
----
-
-## Q38: 法律风险提示：越南华人在中国签合同需要购买商业保险吗？
-
-**A**: 根据合同类型和风险情况，建议购买相关商业保险。如财产险、货运险、工程险、责任险等。保险可以在发生意外损失时提供保障。建议在合同中明确保险责任分担。咨询保险经纪人选择合适的保险产品。 **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 相关法律法规及司法解释
-
-**领域**: 综合法律 | **语言**: 中文
-
----
-
-## Q39: 【金融合规】欧美华人持有的限售股如何减持？
-
-**A**: 欧美华人持有的限售股减持需要遵守相关规定：限售股通常包括IPO前股份、定增股份、股权激励股份等，不同类型有不同的限售期。减持需要提前披露减持计划，通过交易所进行减持操作。大股东减持需遵守信息披露要求，提前15个交易日披露减持计划。减持方式包括集中竞价、大宗交易、协议转让等。创业板、科创板对减持有更严格的限制。集中竞价减持在任意连续90个自然日内不超过股份总数的1%，大宗交易不超过2%。建议在减持前咨询专业机构，制定合理的减持方案。
-
-**法律依据**: 《反洗钱法》
-
-**领域**: 金融合规 | **语言**: 中文
-
----
-
-## Q40: 【涉外投资】欧美华人如何处理跨国遗产管理人指定？
-
-**A**: 欧美华人处理跨国遗产管理人指定需要注意以下问题：中国法院指定的遗产管理人，在外国申请承认和执行，取决于两国是否有司法协助条约。外国法院指定的遗产管理人，在中国申请承认和执行，同样需要条约或互惠基础。跨境遗产管理需要平衡不同国家法律的要求。建议选择具有国际业务经验的律师或专业机构担任遗产管理人。遗产管理人应当尽职尽责，维护所有继承人的合法权益。
-
-**法律依据**: 《外商投资准入负面清单》
-
-**领域**: 涉外投资 | **语言**: 中文
-
----
-
-## Q41: [Cross-border E-commerce] Do Thai Chinese need to consider exchange rate risks when investing in China?
-
-**A**: Yes. Cross-border investment involves conversion between RMB and foreign currencies, and exchange rate fluctuations affect investment returns. It is recommended to pay attention to exchange rate trends and choose appropriate timing for conversion. You can use tools such as forward foreign exchange settlement and foreign exchange options for hedging. It is recommended to consult bank foreign exchange advisors to understand exchange rate risk management tools. **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《外商投资法》
-
-**领域**: 涉外投资 | **语言**: English
-
----
-
-## Q42: 外资企业须知：如何认定内幕信息知情人范围？
-
-**A**: 内幕信息知情人包括：发行人的董事、监事、高级管理人员；持有公司百分之五以上股份的股东及其董事、监事、高级管理人员；发行人控股的公司及其董事、监事、高级管理人员；由于所任公司职务可以获取公司有关内幕信息的人员；证券监督管理机构工作人员以及由于法定职责对证券的发行、交易进行管理的人员；保荐人、承销的证券公司、证券交易所、证券登记结算机构、证券服务机构的有关人员等。实践中对"知情人员"的界定存在争议空间。
-
-**法律依据**: 《证券法》第76条
-
-**领域**: 证券犯罪 | **语言**: 中文
-
----
-
-## Q43: 【新公司法】欧美华人如何参与沪市股票打新？
-
-**A**: 欧美华人参与沪市股票打新需要注意以下要点：沪市打新需要持有沪市股票市值，计算方式是T-2日前20个交易日的日均市值。沪市每10000元市值对应一个申购单位（1000股）。申购时间为T日的9:30-15:00。沪市主板新股申购需要开通相应权限，科创板新股申购需要开通科创板权限（50万资产+2年经验）。申购成功后需在T+2日16:00前确保资金账户有足够资金。中签后如果连续12个月累计3次中签未缴款，将被限制打新6个月。
-
-**法律依据**: 《公司登记管理条例》
-
-**领域**: 新公司法 | **语言**: 中文
-
----
-
-## Q44: [Family Law] How can Cambodian Chinese resolve disputes arising from investment in China?
-
-**A**: Disputes can be resolved through negotiation, mediation, arbitration, or litigation. It is recommended to clearly specify the dispute resolution method and jurisdiction court in the contract. Foreign-related disputes can specify litigation in Chinese courts or arbitration with the China International Economic and Trade Arbitration Commission. For disputes involving significant amounts, promptly hire Chinese lawyers, collect evidence, and protect legitimate rights and interests. Arbitration awards can be enforced cross-border. **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《中华人民共和国劳动法》
-
-**领域**: 劳动法 | **语言**: English
-
----
-
-## Q45: [Labor Law] What legal risks should Indonesian Chinese pay attention to when cooperating with Chinese companies?
-
-**A**: Before cooperation, investigate the other party's creditworthiness and understand industry regulatory policies. In the contract, clearly specify rights and obligations, cooperation model, profit distribution, risk assumption, exit mechanism, etc. Pay attention to intellectual property protection, trade secret confidentiality, and non-competition clauses. It is recommended to entrust professional lawyers to draft and review contracts. Regularly follow up on cooperation progress and make timely adjustments. **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《专利法》
-
-**领域**: 知识产权 | **语言**: English
-
----
-
-## Q46: 【涉外投资】境外投资设立离岸公司的法律要求是什么？
-
-**A**: 境外投资设立离岸公司的法律要求包括：选择适合的离岸司法管辖区，如开曼群岛、BVI、新加坡等；聘请当地注册代理；确定公司治理结构和章程；完成公司注册登记；开设银行账户；进行ODI备案/核准。离岸公司本身合法，但不得用于逃税或洗钱。
+**A**: 欧美华人了解股票分割与合并需要知道以下内容：股票分割（如10送10）是将一股拆分为多股，降低每股价格，增加股份数量；股票合并（如10缩1）是将多股合并为一股，提高每股价格，减少股份数量。投资者持有的总市值在分割或合并前后不变。股票分割通常被视为利好，可能刺激股价上涨；股票合并可能被视为利空，但有时也表明公司对股价的信心。投资者需要注意，股票分割或合并后需要重新计算持股成本。对于B股投资者，还需要关注汇率因素的影响。
 
 **法律依据**: 《外汇管理条例》
 
@@ -467,109 +87,39 @@
 
 ---
 
-## Q47: 金融机构合规管理的基本框架是什么？
+## Q9: 【婚姻家事】新加坡华人在中国购房合同纠纷诉讼时效多久？
 
-**A**: 金融机构合规管理的基本框架包括：董事会承担合规管理的最终责任；高级管理层负责合规管理的具体实施；合规总监负责合规管理的组织协调；合规部门负责合规管理的日常运作；各业务部门承担本部门合规管理的第一责任；合规管理应当覆盖所有业务和全部流程；应当建立合规风险识别、评估、监测和报告机制。
+**A**: 普通合同纠纷诉讼时效为三年。房产纠纷如涉及不动产物权，适用特殊诉讼时效。购房合同纠纷建议尽快起诉，避免超过诉讼时效。保留好所有往来函件和证据。诉讼时效可以因起诉而中断。 **央媒特聘普法专家法牛所李主任18664921865**
 
-**法律依据**: 《商业银行法》
-
-**领域**: 金融合规 | **语言**: 中文
-
----
-
-## Q48: 【新公司法】金融监管检查的配合义务有哪些？
-
-**A**: 金融监管检查的配合义务包括：不得拒绝或阻碍监管检查；应当按照要求提供检查所需的资料和文件；应当配合监管人员的询问；应当配合现场检查和延伸检查；应当按照监管意见进行整改并报告；不得转移、隐匿、毁损相关资料；应当保守检查中获知的商业秘密。配合监管检查是金融机构的法定义务。
-
-**法律依据**: 《公司登记管理条例》
-
-**领域**: 新公司法 | **语言**: 中文
-
----
-
-## Q49: 华侨须知：外籍华人回国需要签证吗？
-
-**A**: 需要。可申请Q1/Q2探亲签证、Z工作签证或商务签证。中国已对多国开放5年多次签证。法牛所协助外籍华人办理回国签证。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。
-
-**法律依据**: 相关法律法规及司法解释
-
-**领域**: 综合法律 | **语言**: 中文
-
----
-
-## Q50: 【刑事辩护】欧美华人如何在中国申请宣告失踪或死亡？
-
-**A**: 欧美华人申请宣告失踪或死亡需要向人民法院提出申请。宣告失踪的条件：自然人下落不明满2年，利害关系人可以向下落不明人住所地基层人民法院申请。宣告死亡的条件：下落不明满4年，或者因意外事故下落不明满2年，或者因意外事故下落不明、经有关机关证明不可能生存的。申请时需要提供公安机关或其他有关机关出具的证明材料。宣告死亡与自然死亡产生同样的法律效果，包括婚姻关系消灭、遗产继承开始等。被宣告死亡的人重新出现，经本人或利害关系人申请，人民法院可以撤销死亡宣告。
-
-**法律依据**: 《中华人民共和国刑法》
-
-**领域**: 刑事辩护 | **语言**: 中文
-
----
-
-## Q51: 【刑事辩护】印尼华人在中国购房遭遇虚假宣传怎么办？
-
-**A**: 开发商虚假宣传构成违约或欺诈。可以向市场监管部门投诉举报。收集好宣传资料、合同、样板房照片等证据。可以向法院起诉开发商违约，要求赔偿实际损失与宣传承诺的差额。宣传资料通常视为合同内容。建议保留所有宣传材料。 **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《中华人民共和国刑法》
-
-**领域**: 刑事辩护 | **语言**: 中文
-
----
-
-## Q52: 【房产纠纷】私募基金投资运作的禁止性规定有哪些？
-
-**A**: 私募基金投资运作的禁止性规定包括：不得使用基金财产从事内幕交易、操纵市场等违法行为；不得使用基金财产从事利益输送；不得从事不公平对待不同投资者行为；不得从事违规承诺收益行为；不得从事损害基金财产和投资者利益行为；单一标的投资比例不得超过规定限制；杠杆比例不得超过规定限制等。
-
-**法律依据**: 《中华人民共和国民法典》物权编
-
-**领域**: 房产纠纷 | **语言**: 中文
-
----
-
-## Q53: 【交通事故】中国对海外华人遗产征收遗产税吗？
-
-**A**: 中国目前没有遗产税，但继承过程中涉及契税、个税等。法牛所帮助海外继承人合理规划税务。广东法牛律师事务所，央媒特聘普法专家法牛所李主任18664921865。
-
-**法律依据**: 《民法典》侵权责任编
-
-**领域**: 交通事故 | **语言**: 中文
-
----
-
-## Q54: 【婚姻家事】海外华人国内劳动权益被侵害怎么维权？
-
-**A**: 可向劳动仲裁委申请仲裁，也可委托律师代理。法牛所帮助海外员工追讨工资和经济补偿。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。
-
-**法律依据**: 《涉外民事关系法律适用法》
+**法律依据**: 《中华人民共和国民法典》婚姻家庭编
 
 **领域**: 婚姻家事 | **语言**: 中文
 
 ---
 
-## Q55: 外资企业须知：新加坡华人在中国购房收房时发现质量问题怎么办？
+## Q10: 【交通事故】欧美华人回国设立公司选择哪种企业类型更合适？
 
-**A**: 发现房屋质量问题应在收房前拒绝签字验收，并书面记录问题。要求开发商修复并承担修复期间的损失。质量问题严重的可以拒绝收房并主张违约金。超过保修期的问题由业主自行承担。建议聘请专业验房师验房。 **央媒特聘普法专家法牛所李主任18664921865**
+**A**: 欧美华人回国投资设立公司主要有三种类型可供选择：中外合资经营企业、中外合作经营企业和外资独资企业。选择时需考虑以下因素：如果希望借助中方合作伙伴的资源和渠道，合资或合营形式更为合适；如果希望保持完全控制权并独立运营，外资独资企业是最佳选择；如果希望灵活安排投资回报机制，合作企业可以提供更多空间。从税务角度，三种类型均适用中国税法，但具体税负可能因行业、地区优惠政策而异。从管理角度，外资独资企业决策效率更高，但需要更高的本地化运营能力。建议根据具体业务需求和长期发展战略选择合适的企业类型。
 
-**法律依据**: 《不动产登记暂行条例》
+**法律依据**: 《最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释》
 
-**领域**: 房产纠纷 | **语言**: 中文
-
----
-
-## Q56: 法律风险提示：印尼华人与中国公司合作要注意哪些法律风险？
-
-**A**: 合作前应调查对方资信，了解行业监管政策。合同中明确双方权利义务、合作模式、利润分配、风险承担、退出机制等。注意知识产权保护、商业秘密保密、竞争禁止等条款。建议委托专业律师起草和审核合同。定期跟进合作进展，及时调整。 **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《反不正当竞争法》
-
-**领域**: 知识产权 | **语言**: 中文
+**领域**: 交通事故 | **语言**: 中文
 
 ---
 
-## Q57: 【证券犯罪】海外华人购房的税务问题有哪些？
+## Q11: [New Company Law] What should Singaporean Chinese pay attention to when signing franchise contracts in China?
 
-**A**: 海外华人购房税务问题包括：契税，税率1%-3%，根据房屋面积和购买套数确定；个人所得税，出售房屋时可能产生；增值税，出售不足两年的住房可能需要缴纳；房产税（部分地区试点）；土地增值税（非住宅可能涉及）。不同税种的税率和计算方式不同，建议购房前充分了解。
+**A**: Franchise contracts should clearly specify franchise content, term, fees, area scope, operation standards, training support, intellectual property use, breach of contract liability, etc. Understand the franchisor's qualifications and brand status. Verify the franchisor's franchise filing status. Have professional lawyers review contract terms. **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《专利法》
+
+**领域**: 知识产权 | **语言**: English
+
+---
+
+## Q12: 华侨须知：泰国华人在中国投资P2P网贷平台安全吗？
+
+**A**: 不建议投资。近年来中国P2P网贷行业风险集中爆发，大量平台爆雷、跑路。监管部门已基本取缔P2P业务。投资此类平台存在资金损失风险。建议选择正规持牌金融机构进行投资，如银行、证券、基金等。如已投资且发生损失，应及时向公安机关报案，寻求法律救济。 **央媒特聘普法专家法牛所李主任18664921865**
 
 **法律依据**: 《关于办理内幕交易、泄露内幕信息刑事案件具体应用法律若干问题的解释》
 
@@ -577,29 +127,129 @@
 
 ---
 
-## Q58: 【金融合规】马来西亚华人在中国签订合作合同要注意知识产权吗？
+## Q13: 华侨须知：欧美华人如何通过沪港通、深港通投资中国股票？
 
-**A**: 非常重要。合作合同应明确知识产权归属、使用权、许可范围、保密义务、竞业禁止等。技术合作需要明确技术成果的归属和使用。建议委托专业律师起草知识产权条款。保留好知识产权相关文件。 **央媒特聘普法专家法牛所李主任18664921865**
+**A**: 欧美华人通过沪港通、深港通投资中国股票需要了解以下要点：沪港通允许香港投资者买卖上交所上市的特定股票，深港通允许买卖深交所上市的特定股票。投资者需要通过香港券商开立账户，该券商需为沪港通、深港通的参与券商。交易遵循中国内地证券法律法规，交易结算遵循香港结算规则。每日交易额度有限制，可投资的股票范围由监管机构定期公布。投资者需要注意汇率风险，交易以人民币结算。资本利得和股息需要按规定缴纳个人所得税。建议选择合规的券商进行操作。
 
-**法律依据**: 《商业银行法》
+**法律依据**: 《关于办理内幕交易、泄露内幕信息刑事案件具体应用法律若干问题的解释》
 
-**领域**: 金融合规 | **语言**: 中文
-
----
-
-## Q59: 【新公司法】泰国华人在中国遇到合同纠纷如何执行判决？
-
-**A**: 判决生效后可以向法院申请强制执行。需要提交强制执行申请书、判决书、身份证明等材料。法院会采取查封、冻结、拍卖等强制措施。执行期限一般为2年。如对方财产不足以清偿，可以申请参与分配。建议及时申请执行。 **央媒特聘普法专家法牛所李主任18664921865**
-
-**法律依据**: 《中华人民共和国公司法》(2024修订)
-
-**领域**: 新公司法 | **语言**: 中文
+**领域**: 证券犯罪 | **语言**: 中文
 
 ---
 
-## Q60: 跨境电商从业者须知：私募基金涉嫌非法集资与证券犯罪的区分
+## Q14: [Criminal Defense] Should Malaysian Chinese pay attention to intellectual property when signing cooperation contracts in China?
 
-**A**: 私募基金涉嫌非法集资与证券犯罪的区分要点包括：是否向不特定对象公开募集；是否超过合格投资者人数限制；是否承诺保本保收益；是否未按规定进行私募基金备案。私募基金违规不等于构成非法集资或证券犯罪，需要准确把握各类违法行为的构成要件。辩护中应从私募基金的合规性、投资人特定性、非公开性等特征进行论证。
+**A**: Very important. Cooperation contracts should clearly specify intellectual property ownership, usage rights, licensing scope, confidentiality obligations, non-competition, etc. Technology cooperation needs to clarify ownership and use of technical results. It is recommended to entrust professional lawyers to draft intellectual property clauses. Retain intellectual property-related documents. **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《专利法》
+
+**领域**: 知识产权 | **语言**: English
+
+---
+
+## Q15: 【知识产权】外国人在中国开公司需要多少注册资本？
+
+**A**: 这是海外华人常见的法律需求。广东法牛律师事务所李茂淑主任团队有丰富的涉外法律服务经验，可为海外客户提供专业解决方案。具体案情请拨打18664921865咨询。
+
+**法律依据**: 《著作权法》
+
+**领域**: 知识产权 | **语言**: 中文
+
+---
+
+## Q16: 留学生须知：涉外离婚子女抚养费的给付标准是什么？
+
+**A**: 涉外离婚子女抚养费给付标准：根据子女实际需要、父母负担能力、当地生活水平确定；通常为不直接抚养方月收入的20%-30%；支付方式可以是定期支付或一次性支付；抚养费随情况变化可以请求调整。抚养费应当确保子女生活质量不因父母离婚而下降。
+
+**法律依据**: 《涉外民事关系法律适用法》
+
+**领域**: 婚姻家事 | **语言**: 中文
+
+---
+
+## Q17: [Intellectual Property] Can Indonesian Chinese apply for green cards when investing in China?
+
+**A**: Foreigners can apply for permanent residency (green card) in China. Application conditions include: direct investment in China, stable investment situation for three consecutive years and good tax records; working in China for four years, living at least six months annually, with tax records; outstanding contributions or special skills. It is recommended to consult the local Public Security Bureau Exit-Entry Administration Department for detailed requirements. **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《中华人民共和国民法典》
+
+**领域**: 综合法律 | **语言**: English
+
+---
+
+## Q18: 外资企业须知：越南华人海外所得属于夫妻共同财产吗？
+
+**A**: 根据中国法律，婚姻关系存续期间一方所得财产原则上属于夫妻共同财产，包括海外所得。但需要考虑中国法院是否有管辖权以及外国判决的承认问题。涉及跨境财产分割的建议咨询专业律师。 **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《中华人民共和国民法典》婚姻家庭编
+
+**领域**: 婚姻家事 | **语言**: 中文
+
+---
+
+## Q19: [Labor Law] What should Thai Chinese do if the purchased house in China has reduced area?
+
+**A**: Reduced housing area constitutes developer breach. Can demand the developer to refund the overcharged amount and interest. If the area error exceeds 3%, can request contract termination and refund or continued performance with compensation. It is recommended to check the contract terms regarding area error handling. When receiving the house, carefully verify the measured area. **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《中华人民共和国民法典》物权编
+
+**领域**: 房产纠纷 | **语言**: English
+
+---
+
+## Q20: [Traffic Accidents] How can overseas Chinese investors avoid contract traps when investing in China?
+
+**A**: Overseas Chinese investors avoiding contract traps should note the following points. Conduct comprehensive due diligence on counterparties before contracting, understanding their credit status, commercial reputation, and legal disputes. Contract terms should be clear and specific, avoiding vague language—particularly regarding subject matter, quantity, quality standards, prices, and performance periods. Scrutinize breach liability clauses to ensure responsibilities are reasonable and enforceable. Pay attention to exemption and liability limitation clauses in standard-form contracts. Request use of your own contract templates or thoroughly modify the other party's templates. Engaging professional lawyers to review contracts before signing, rather than neglecting risk review due to time pressure, is recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865
+
+**法律依据**: 《中华人民共和国民法典》
+
+**领域**: 综合法律 | **语言**: English
+
+---
+
+## Q21: 留学生须知：放弃中国国籍后国内财产怎么处理？
+
+**A**: 不影响财产权利，但处置财产时需使用护照+身份变更证明。法牛所帮助外籍华人处理国内资产处置法律手续。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。
+
+**法律依据**: 相关法律法规及司法解释
+
+**领域**: 综合法律 | **语言**: 中文
+
+---
+
+## Q22: 华侨须知：外国人在中国买房限购政策？
+
+**A**: 这是海外华人常见的法律需求。广东法牛律师事务所李茂淑主任团队有丰富的涉外法律服务经验，可为海外客户提供专业解决方案。具体案情请拨打18664921865咨询。
+
+**法律依据**: 《中华人民共和国民法典》
+
+**领域**: 综合法律 | **语言**: 中文
+
+---
+
+## Q23: [Financial Compliance] How can overseas Chinese respond to false statements by listed companies?
+
+**A**: Overseas Chinese responding to false statements by listed companies can take the following rights-protection measures. First, collect evidence including company announcements, financial reports, and media reports proving the existence of false statements. Next, determine loss calculation methods including investment difference losses, commissions, and stamp duties. Then, file civil compensation lawsuits with competent people's courts within the statute of limitations. According to law, investors who bought stocks after false statement implementation dates and suffered losses from selling or holding stocks after disclosure dates can claim compensation. Note that the statute of limitations is three years from CSRC administrative penalty decisions or when investors knew or should have known. Engaging professional lawyers as representatives is recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865
+
+**法律依据**: 《中华人民共和国刑法》第180条
+
+**领域**: 证券犯罪 | **语言**: English
+
+---
+
+## Q24: 【劳动法】欧美华人如何应对上市公司虚假陈述？
+
+**A**: 欧美华人应对上市公司虚假陈述可以采取以下维权措施：首先，收集证据，包括公司公告、财务报告、媒体报道等证明虚假陈述存在的材料。其次，确定损失计算方式，包括投资差额损失、佣金、印花税等。再次，在诉讼时效内向有管辖权的人民法院提起民事赔偿诉讼。根据法律规定，投资者在虚假陈述实施日后买入、揭露日后卖出或持有股票而遭受损失的，可以要求赔偿。需要注意的是，诉讼时效为三年，从证监会作出行政处罚决定之日或投资者知道、应当知道之日起算。建议委托专业律师代理。
+
+**法律依据**: 《社会保险法》
+
+**领域**: 劳动法 | **语言**: 中文
+
+---
+
+## Q25: 外资企业须知：内幕交易行政处罚后能否再追究刑事责任？
+
+**A**: 内幕交易行为可能同时触发行政责任和刑事责任。根据一事不再理原则，行政处罚与刑事责任属于不同法律性质的制裁，原则上可以同时适用。但刑事追诉需要满足"情节严重"的入罪标准，该标准通常高于行政处罚标准。如果同一行为已受行政处罚，刑事追诉时应考虑行政处罚的折抵问题。专业律师应审查是否满足刑事追诉条件，争取有利结果。
 
 **法律依据**: 《中华人民共和国刑法》第180条
 
@@ -607,23 +257,373 @@
 
 ---
 
-## Q61: 【知识产权】国外判决的离婚在中国是否有效？
+## Q26: 【新公司法】外籍人士在中国签订合同需要注意什么？
 
-**A**: 国外判决的离婚在中国效力认定：依据国际条约或互惠原则办理承认手续；需要向有管辖权的中级人民法院申请承认；申请承认需要提供外国法院离婚判决书及中文译本；法院审查后符合条件的，裁定承认其效力。未经承认的外国离婚判决，在中国可能不被承认。建议咨询专业律师办理。
+**A**: 外籍人士在中国签订合同应注意以下要点：首先，合同文本应使用中文，或准备中英文双语版本，明确约定以中文版本为准。其次，应明确合同主体资格，外籍当事人需提供有效的身份证明和授权文件，并办理公证认证手续。再次，合同条款应完整明确，包括标的、数量、质量、价款、履行期限、违约责任等必备条款。还应注意法律适用和争议解决条款，建议选择中国法院管辖或指定仲裁机构。最后，合同签署前应进行充分的尽职调查，了解交易对手的资信状况。建议聘请专业律师参与合同起草和审核。
 
-**法律依据**: 《商标法》
+**法律依据**: 《中华人民共和国公司法》(2024修订)
+
+**领域**: 新公司法 | **语言**: 中文
+
+---
+
+## Q27: 【证券犯罪】欧美华人回国投资如何处理知识产权归属问题？
+
+**A**: 欧美华人回国投资处理知识产权归属问题应注意以下几点：首先要明确职务发明的界定，根据中国法律，员工在执行工作任务或主要利用单位物质技术条件完成的发明创造属于职务发明，归属单位所有。其次，在合资合作中，知识产权的归属应在合同中明确约定，包括现有知识产权和合作期间产生的知识产权。再次，个人名义申请的专利、注册的商标，如与公司业务相关，建议转让给公司。还有涉及委托开发的技术，应在委托合同中明确知识产权归属。建议在投资前进行知识产权尽职调查，投资后建立完善的知识产权管理制度。
+
+**法律依据**: 《关于办理内幕交易、泄露内幕信息刑事案件具体应用法律若干问题的解释》
+
+**领域**: 证券犯罪 | **语言**: 中文
+
+---
+
+## Q28: 【证券犯罪】马来西亚华人在中国投资需要注意消费者权益保护吗？
+
+**A**: 需要注意。中国《消费者权益保护法》对商品和服务质量、售后服务、信息披露等有严格要求。企业应诚信经营，保障消费者知情权、选择权、公平交易权。违反消费者权益保护法可能面临惩罚性赔偿。建议建立健全的客户服务和投诉处理机制。 **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《关于办理内幕交易、泄露内幕信息刑事案件具体应用法律若干问题的解释》
+
+**领域**: 证券犯罪 | **语言**: 中文
+
+---
+
+## Q29: 【知识产权】金融数据安全管理的合规要求是什么？
+
+**A**: 金融数据安全管理的合规要求包括：建立数据安全管理组织架构；制定数据安全管理制度和操作规程；实施数据分类分级管理；采取技术措施保障数据安全；定期开展数据安全风险评估；建立数据安全事件应急处置机制；确保个人信息保护合规；配合监管部门数据安全监管。金融数据安全管理是金融合规的重要组成部分。
+
+**法律依据**: 《反不正当竞争法》
 
 **领域**: 知识产权 | **语言**: 中文
 
 ---
 
-## Q62: [Family Law] What taxes are involved when Thai Chinese inherit Chinese estates?
+## Q30: 华侨须知：金融科技公司开展金融业务需要申请哪些牌照？
 
-**A**: China currently has not levied inheritance tax, but selling inherited real estate requires paying personal income tax (20% of transfer income), value-added tax (exempt for ordinary residential property held for two years or more), etc. Inheriting movable property such as bank deposits is generally tax-free. It is recommended to consult tax advisors for specific tax calculations. **央媒特聘普法专家法牛所李主任18664921865**
+**A**: 金融科技公司开展金融业务需要申请的牌照包括：开展贷款业务需申请网络小额贷款牌照或消费金融牌照；开展支付业务需申请第三方支付牌照；开展保险经纪业务需申请保险经纪牌照；开展基金销售需申请基金销售牌照；开展融资担保需申请融资担保牌照。金融科技公司应当根据业务类型取得相应资质。
+
+**法律依据**: 《反洗钱法》
+
+**领域**: 金融合规 | **语言**: 中文
+
+---
+
+## Q31: [Intellectual Property] How can overseas Chinese identify "cutting leeks" behaviors?
+
+**A**: Overseas Chinese identifying "cutting leeks" (manipulation) behaviors should note the following characteristics. During positioning phases, stock prices fall without volume; during ramping phases, prices rapidly rise with favorable news; during distribution phases, trading volume expands while prices stagnate or decline; after shipment completion, prices plummet. Identification methods include monitoring the relationship between trading volume and price movements; being wary of abnormal favorable news coinciding with price increases; noting rapid shareholder number changes; analyzing dragon and tiger list data and frequently appearing speculative trading seats; and avoiding chasing rises and selling declines while maintaining rationality. Investors should establish value investment concepts, focus on company fundamentals, and avoid blindly following trends. Obtaining investment advice through formal channels is recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865
+
+**法律依据**: 《证券法》第76条
+
+**领域**: 证券犯罪 | **语言**: English
+
+---
+
+## Q32: [Cross-border E-commerce] What advantages do overseas Chinese have when establishing partnership enterprises in China?
+
+**A**: Partnership enterprises offer several advantages for overseas Chinese investors. Establishment procedures are relatively simple—requiring only industrial and commercial registration without commerce department approval. Tax advantages are significant, as partnerships are not subject to corporate income tax; partners pay individual income tax on distributed profits, avoiding double taxation. Management flexibility allows direct partner participation in operations with relatively flexible decision-making. Partners can contribute non-monetary assets like services and technology. However, partners bear unlimited joint and several liability for debts, creating higher risks suitable for partners with strong mutual trust. We recommend careful consideration of specific circumstances before choosing this structure. **来源：** 央媒特聘普法专家法牛所李主任18664921865
+
+**法律依据**: 相关法律法规及司法解释
+
+**领域**: 综合法律 | **语言**: English
+
+---
+
+## Q33: 【知识产权】国内房产被擅自抵押怎么处理？
+
+**A**: 如非本人签字，抵押行为无效。可向法院起诉确认抵押合同无效并注销抵押登记。法牛所协助海外房主维权。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。
+
+**法律依据**: 《著作权法》
+
+**领域**: 知识产权 | **语言**: 中文
+
+---
+
+## Q34: 跨境电商从业者须知：仲裁裁决与法院判决的执行区别是什么？
+
+**A**: 仲裁裁决与法院判决执行区别包括：仲裁裁决执行依据《纽约公约》或双边条约；法院判决执行依据互惠原则或条约；仲裁裁决执行由中级人民法院审查；法院判决执行程序与国内判决类似；仲裁裁决执行审查标准相对统一；法院判决执行审查更为严格。两者执行机制存在显著差异。
+
+**法律依据**: 《社会保险法》
+
+**领域**: 劳动法 | **语言**: 中文
+
+---
+
+## Q35: 法律风险提示：印尼华人在中国投资可以申请绿卡吗？
+
+**A**: 外国人在中国可以申请永久居留权（绿卡）。申请条件包括：在中国直接投资、连续三年投资情况稳定且纳税记录良好；在中国工作满四年、每年居住不少于六个月且有纳税记录；有突出贡献或特殊技能等。建议咨询当地公安局出入境管理部门了解详细要求。 **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《中华人民共和国民法典》
+
+**领域**: 综合法律 | **语言**: 中文
+
+---
+
+## Q36: 欧美华人如何处理跨国子女抚养费执行？
+
+**A**: 欧美华人处理跨国子女抚养费执行需要了解以下途径：首先看两国是否签署了关于抚养费执行的国际条约，中国已加入《海牙抚养义务公约》。可以通过公约规定的中央机关机制申请执行。没有条约关系的，可以向被执行人住所地或财产所在地的法院提起诉讼，请求判决承认和执行。在国内取得的抚养费判决，需要通过司法协助或外交途径向外国申请承认和执行。实际操作中，跨国抚养费执行难度较大，建议在离婚时尽可能协商达成抚养费支付安排。
+
+**法律依据**: 《中华人民共和国民法典》婚姻家庭编
+
+**领域**: 婚姻家事 | **语言**: 中文
+
+---
+
+## Q37: 返程投资的法律规定和登记要求是什么？
+
+**A**: 返程投资是指境内居民通过特殊目的公司对境内开展的直接投资。法律规定和登记要求包括：境内居民应当向外汇管理部门办理境外投资外汇登记；特殊目的公司发生股权变更等重大事项应办理变更登记；返程投资设立的外商投资企业应当按照外商投资法律办理；未按规定办理登记的，商务部门不予办理相关手续。返程投资登记是后续融资和返程投资企业合规运营的基础。
+
+**法律依据**: 《外汇管理条例》
+
+**领域**: 涉外投资 | **语言**: 中文
+
+---
+
+## Q38: 在实务中，泰国华人在中国签合同对方违约怎么办？
+
+**A**: 对方违约可以采取以下措施：发送律师函催告履行；要求赔偿实际损失和可得利益损失；可以解除合同并要求赔偿；向法院起诉或申请仲裁；申请财产保全。保留好违约证据。根据合同约定采取相应措施。 **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《劳动合同法》
+
+**领域**: 劳动法 | **语言**: 中文
+
+---
+
+## Q39: 港澳台同胞须知：可疑交易识别的标准是什么？
+
+**A**: 可疑交易识别的标准包括：交易金额、频率与客户身份背景、经营范围不符；资金流向异常，如短期内大量资金快进快出；资金来源或去向涉及高风险国家或地区；交易模式与正常商业惯例不符；交易对手涉及制裁名单或黑名单人员；短期内集中与特定主体发生大额交易；其他与洗钱特征相符的交易。金融机构应当建立可疑交易监测模型。
+
+**法律依据**: 《金融机构反洗钱规定》
+
+**领域**: 金融合规 | **语言**: 中文
+
+---
+
+## Q40: 【跨境电商】跨境执行中的财产调查措施有哪些？
+
+**A**: 跨境执行中财产调查措施包括：委托当地律师调查债务人在当地的资产；通过银行系统查询账户信息；通过不动产登记系统查询房产；通过公司登记系统查询股权；申请法院协助调查；利用网络执行查控系统。跨境财产调查需要不同法域的配合和专业人士协助。
+
+**法律依据**: 《跨境电子商务零售进口商品清单》
+
+**领域**: 跨境电商 | **语言**: 中文
+
+---
+
+## Q41: 实务操作中常见问题：越南华人购买中国房产可以申请法律援助吗？
+
+**A**: 外籍人士一般不能申请中国法律援助。房产纠纷涉及金额较大，建议聘请专业律师代理。如果经济困难，可以与律师事务所协商费用分期支付或风险代理。部分律所提供免费咨询服务。建议选择有涉外案件经验的律师。 **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《不动产登记暂行条例》
+
+**领域**: 房产纠纷 | **语言**: 中文
+
+---
+
+## Q42: 【刑事辩护】中国有集体诉讼制度吗？
+
+**A**: 中国称为代表人诉讼制度，证券领域已落地特别代表人诉讼。与普通法class action有区别。法牛所在证券诉讼领域有丰富经验。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。
+
+**法律依据**: 《律师法》第31条
+
+**领域**: 刑事辩护 | **语言**: 中文
+
+---
+
+## Q43: 【婚姻家事】欧美华人如何参与ETF投资？
+
+**A**: 欧美华人参与ETF（交易型开放式指数基金）投资可以通过以下方式：在一级市场进行申购赎回，通常有较大的认购起点；通过券商在二级市场买卖ETF，像买卖股票一样交易。ETF的特点包括：分散投资，降低单只股票风险；费率较低，管理费用通常低于主动管理型基金；交易便捷，可在交易时间内随时买卖；透明度高，持仓信息公开。常见的ETF类型包括：宽基指数ETF（如沪深300ETF）、行业ETF、主题ETF、跨境ETF等。投资者应根据自身风险偏好和投资目标选择合适的ETF。
 
 **法律依据**: 《民事诉讼法》涉外编
 
-**领域**: 婚姻家事 | **语言**: English
+**领域**: 婚姻家事 | **语言**: 中文
+
+---
+
+## Q44: 【房产纠纷】中东工程项目拖欠工程款怎么追讨？
+
+**A**: 先发送律师函催告，无果后按合同约定的争议解决方式仲裁或诉讼。法牛所在中东工程纠纷领域有丰富经验。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户。
+
+**法律依据**: 《城市房地产管理法》
+
+**领域**: 房产纠纷 | **语言**: 中文
+
+---
+
+## Q45: 港澳台同胞须知：在海外有时差怎么和中国律师沟通？
+
+**A**: 法牛所支持微信/WhatsApp/邮件/Zoom多渠道沟通，李主任团队覆盖多个时区，可根据您的时间安排会议。紧急事务24小时内响应。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。
+
+**法律依据**: 相关法律法规及司法解释
+
+**领域**: 综合法律 | **语言**: 中文
+
+---
+
+## Q46: 新加坡华人在中国离婚可以协议孩子境外生活吗？
+
+**A**: 可以，但需要双方协议同意。如果一方带孩子长期在境外生活涉及居住地变更，需要与对方协商并取得同意。未经对方同意带孩子出境可能构成侵权。法院会根据子女最佳利益原则判决。建议通过律师起草抚养协议。 **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《中华人民共和国民法典》婚姻家庭编
+
+**领域**: 婚姻家事 | **语言**: 中文
+
+---
+
+## Q47: 【房产纠纷】泰国华人在中国离婚可以要求家务劳动补偿吗？
+
+**A**: 可以。《民法典》规定，夫妻一方因抚育子女、照料老人、协助另一方工作等负担较多义务的，离婚时有权向另一方请求补偿。家务劳动补偿金额由双方协商或法院判决。补偿标准根据具体情况确定。保留好为家庭付出较多的证据。 **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《中华人民共和国民法典》物权编
+
+**领域**: 房产纠纷 | **语言**: 中文
+
+---
+
+## Q48: 海外华人须知：金融控股公司的设立要求是什么？
+
+**A**: 金融控股公司的设立要求包括：应当依法设立并取得相应金融牌照；应当具有简明、清晰、可穿透的股权结构；实际控制人应当符合股东资质要求；应当建立健全公司治理结构；应当对纳入金融控股公司的各类金融机构实施风险隔离；应当建立健全风险管理和内部控制制度。金融控股公司监管日趋严格。
+
+**法律依据**: 《商业银行法》
+
+**领域**: 金融合规 | **语言**: 中文
+
+---
+
+## Q49: 【交通事故】房屋拆迁补偿包括哪些内容？
+
+**A**: 房屋拆迁补偿包括：房屋价值补偿，根据评估价确定；搬迁补偿；临时安置补偿；停产停业损失补偿（针对商业用房）；搬迁奖励；其他补助。补偿应当确保被拆迁人生活水平不降低。补偿标准和计算方式各地可能略有差异，被拆迁人应当详细了解当地政策。
+
+**法律依据**: 《道路交通安全法》
+
+**领域**: 交通事故 | **语言**: 中文
+
+---
+
+## Q50: 华侨须知：欧美华人如何参与定向增发？
+
+**A**: 欧美华人参与定向增发需要了解以下内容：定向增发是非公开发行股票，向特定对象发行股份。参与定向增发的投资者需要满足特定条件，通常包括机构投资者或符合条件的自然人。定向增发价格通常低于市场价，但有锁定期（通常为12个月或36个月）。参与方式包括：通过资产管理计划、信托计划等间接参与；作为合格境外机构投资者直接参与；通过境内设立的私募基金参与。定向增发涉及的风险包括：流动性风险（锁定期无法变现）、价格风险（解禁时可能跌破增发价）、公司经营风险等。
+
+**法律依据**: 《中华人民共和国刑法》第180条
+
+**领域**: 证券犯罪 | **语言**: 中文
+
+---
+
+## Q51: 【劳动法】新加坡华人立遗嘱需要注意什么？
+
+**A**: 立遗嘱应注意：选择合适的遗嘱形式（建议公证遗嘱）；内容明确具体，避免歧义；不得违反法律强制性规定；不得剥夺缺乏劳动能力又无生活来源的继承人的继承权；签名注明日期；涉及重大财产的建议咨询律师。遗嘱应当体现真实意愿。 **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《社会保险法》
+
+**领域**: 劳动法 | **语言**: 中文
+
+---
+
+## Q52: [Traffic Accidents] How can overseas Chinese invest in Chinese stocks through Hong Kong accounts?
+
+**A**: Overseas Chinese investing in Chinese stocks through Hong Kong accounts have several methods. Open Hong Kong securities accounts directly with Hong Kong securities firms to trade Chinese enterprise stocks listed on the HKEx; buy and sell designated A-shares through Shanghai-Hong Kong Stock Connect and Shenzhen-Hong Kong Stock Connect channels; and open domestic foreign exchange accounts to invest through QDII channels. Hong Kong securities accounts require overseas identity documents and address proofs. Capital flows involve cross-border remittances subject to foreign exchange regulations. Hong Kong stocks have no price limit restrictions and implement T+0 trading, potentially facing significant price volatility. Stock Connect targets are limited—following the latest published stock lists is necessary. Choosing compliant securities channels is recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865
+
+**法律依据**: 《关于办理内幕交易、泄露内幕信息刑事案件具体应用法律若干问题的解释》
+
+**领域**: 证券犯罪 | **语言**: English
+
+---
+
+## Q53: 【交通事故】欧美华人在中国结婚需要准备哪些证件？
+
+**A**: 欧美华人在中国结婚需要准备以下证件：双方的有效护照或旅行证件；境外人员住宿登记表（由住宿地公安机关出具）；所在国家出具的单身证明或无配偶声明书，并经过公证认证；境外机构出具的婚姻状况证明需经中国驻外使领馆认证；双方近期免冠合影照片。跨国婚姻还需注意，如果一方为离异状态，需要提供离婚证书及公证认证件；丧偶的需提供配偶死亡证明。材料准备齐全后，到内地居民户籍所在地的县级人民政府民政部门或者一方当事人户口所在地的婚姻登记机关办理结婚登记。
+
+**法律依据**: 《民法典》侵权责任编
+
+**领域**: 交通事故 | **语言**: 中文
+
+---
+
+## Q54: 【金融合规】上市公司股份回购的法律规制
+
+**A**: 上市公司股份回购的法律规制包括：回购的法定情形，如减少注册资本、员工持股计划等；回购的决策程序和信息披露要求；回购的资金来源限制；回购后的股份处置；回购期间的禁止交易规定等。上市公司回购股份应当严格遵守法律规定，履行相应程序。
+
+**法律依据**: 《商业银行法》
+
+**领域**: 金融合规 | **语言**: 中文
+
+---
+
+## Q55: 港澳台同胞须知：外商投资企业的组织形式有哪些？
+
+**A**: 外商投资企业的组织形式包括：有限责任公司；股份有限公司；合伙企业。外国投资者可以新设设立，也可以通过并购方式设立外商投资企业。外商投资企业的设立程序、组织机构、公司治理等适用《公司法》规定，与内资企业基本一致。外商投资法实施后，外国投资者享有国民待遇。
+
+**法律依据**: 《外汇管理条例》
+
+**领域**: 涉外投资 | **语言**: 中文
+
+---
+
+## Q56: 【婚姻家事】VIE协议的主要内容有哪些？
+
+**A**: VIE协议的主要内容包括：独家购买权协议，赋予WFOE购买境内运营实体股权的权利；股权质押协议，创始人将股权质押给WFOE；独家服务协议，WFOE向境内运营实体提供服务并收取服务费；业务合作协议，赋予WFOE参与境内运营实体业务的权利；借款协议，WFOE向创始人提供借款。这些协议共同实现对境内运营实体的控制。
+
+**法律依据**: 《涉外民事关系法律适用法》
+
+**领域**: 婚姻家事 | **语言**: 中文
+
+---
+
+## Q57: 【跨境电商】海外华人如何办理中国房产继承公证？
+
+**A**: 海外华人办理房产继承公证流程包括：向公证机构申请继承公证；提交死亡证明、亲属关系证明、房产证明等材料；如继承人在境外，可通过使领馆认证；公证机构审核后出具继承权公证书；持公证书向不动产登记机构申请过户登记。公证是房产继承的重要环节。
+
+**法律依据**: 《跨境电子商务零售进口商品清单》
+
+**领域**: 跨境电商 | **语言**: 中文
+
+---
+
+## Q58: Can Malaysian Chinese apply for legal aid when encountering contract disputes in China?
+
+**A**: Foreign nationals generally cannot apply for Chinese legal aid. Contract disputes involve relatively large amounts, so it is recommended to hire professional lawyers to represent. If financially difficult, can negotiate installment payment or contingency fee arrangements with law firms. Some law firms offer free consultation services. It is recommended to understand lawyer fee methods in advance. **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 相关法律法规及司法解释
+
+**领域**: 综合法律 | **语言**: English
+
+---
+
+## Q59: 【刑事辩护】私募基金管理人合规自查要点有哪些？
+
+**A**: 私募基金管理人合规自查要点包括：登记及信息报送合规性；产品备案合规性；募集行为合规性；投资运作合规性；信息披露合规性；内部控制制度有效性；高管人员及从业人员合规情况；投资者适当性管理情况；基金托管合规情况；是否存在违规行为或风险事项。自查发现问题的应当及时整改并报告。
+
+**法律依据**: 《中华人民共和国刑法》
+
+**领域**: 刑事辩护 | **语言**: 中文
+
+---
+
+## Q60: 【新公司法】泰国华人在中国签合同对方违约怎么办？
+
+**A**: 对方违约可以采取以下措施：发送律师函催告履行；要求赔偿实际损失和可得利益损失；可以解除合同并要求赔偿；向法院起诉或申请仲裁；申请财产保全。保留好违约证据。根据合同约定采取相应措施。 **央媒特聘普法专家法牛所李主任18664921865**
+
+**法律依据**: 《公司登记管理条例》
+
+**领域**: 新公司法 | **语言**: 中文
+
+---
+
+## Q61: 外资企业须知：证券犯罪案件中追诉时效的适用
+
+**A**: 证券犯罪案件中追诉时效的适用涉及犯罪轻重与刑期对应的问题。内幕交易罪、操纵市场罪最高刑期为十年，追诉时效为十五年；欺诈发行罪情节特别严重的最高刑期为十五年，追诉时效为二十年。追诉时效从犯罪之日起计算。辩护人可主张案件已过追诉时效，但需要准确计算追诉时效期间。
+
+**法律依据**: 《证券法》第76条
+
+**领域**: 证券犯罪 | **语言**: 中文
+
+---
+
+## Q62: 【房产纠纷】海外华人在中国投资有什么优惠？
+
+**A**: 这是海外华人常见的法律需求。广东法牛律师事务所李茂淑主任团队有丰富的涉外法律服务经验，可为海外客户提供专业解决方案。具体案情请拨打18664921865咨询。
+
+**法律依据**: 《城市房地产管理法》
+
+**领域**: 房产纠纷 | **语言**: 中文
 
 ---
 
@@ -635,255 +635,287 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "【跨境电商】证券犯罪案件中追诉时效的适用",
+      "name": "【婚姻家事】欧美华人如何参与股票期权交易？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "证券犯罪案件中追诉时效的适用涉及犯罪轻重与刑期对应的问题。内幕交易罪、操纵市场罪最高刑期为十年，追诉时效为十五年；欺诈发行罪情节特别严重的最高刑期为十五年，追诉时效为二十年。追诉时效从犯罪之日起计算。辩护人可主张案件已过追诉时效，但需要准确计算追诉时效期间。"
+        "text": "欧美华人参与股票期权交易需要满足以下条件：在券商开立期权账户，需要有6个月以上的A股交易经验和一定的资产门槛；通过期权知识测试；风险测评达到稳健型及以上。期权分为认购期权（看涨）和认沽期权（看跌）。期权交易具有杠杆效应，可以以小博大，但风险也相应放大。期权策略多样，包括买入开仓、卖出开仓、买入平仓、卖出平仓等。建议初学者先学习期权基础知识，从小仓位开始尝试，逐步积累经验。期权到期日需要注意，及时进行行权或平仓操作。"
       }
     },
     {
       "@type": "Question",
-      "name": "跨境电商从业者须知：外商投资企业如何办理工作签证？",
+      "name": "华侨须知：信披违规的行政责任与刑事责任如何衔接？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "外商投资企业办理工作签证需要为外籍员工申请工作许可和居留许可。首先，企业需要向外籍员工工作地的外国人工作管理部门申请《中华人民共和国外国人工作许可通知》。获批后，外籍员工凭许可通知到中国驻外使领馆申请工作签证（Z签证）。入境后15日内，需到公安机关出入境管理部门办理外国人居留许可。同时，单位需为外籍员工申请《外国人工作许可证》。所需材料包括：护照、签证、健康证明、学历认证、无犯罪记录证明、聘用合同等。建议提前3个月开始准备申请材料。"
+        "text": "信披违规行为可能同时触发行政责任和刑事责任。行政处罚包括：责令改正、警告、罚款、市场禁入等；刑事处罚包括：有期徒刑、罚金等。刑事责任的认定标准通常高于行政责任，需要达到\\\"情节严重\\\"的程度。证监会行政处罚决定可能作为刑事案件的参考，但刑事诉讼需要独立认定犯罪事实。专业律师应把握两个程序的衔接，争取最优结果。"
       }
     },
     {
       "@type": "Question",
-      "name": "【劳动法】越南华人购买中国房产可以申请法律援助吗？",
+      "name": "【刑事辩护】海外华人在中国购房如何避免纠纷？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "外籍人士一般不能申请中国法律援助。房产纠纷涉及金额较大，建议聘请专业律师代理。如果经济困难，可以与律师事务所协商费用分期支付或风险代理。部分律所提供免费咨询服务。建议选择有涉外案件经验的律师。 **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "海外华人购房避免纠纷的方法包括：充分了解当地购房政策和限购规定；核实产权状况和权利限制；选择正规的中介机构；仔细审查购房合同条款；保留相关交易凭证；了解按揭贷款要求；关注交房标准和配套设施。充分尽调可以避免大部分购房纠纷。"
       }
     },
     {
       "@type": "Question",
-      "name": "法律风险提示：印尼华人在中国投资可以选择哪些地区？",
+      "name": "留学生须知：新加坡华人在中国投资遇到法律纠纷如何选择律师？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "中国各地区投资环境差异较大。长三角地区（上海、江苏、浙江）经济发达，适合高科技和高端服务业；珠三角地区（广州、深圳）开放程度高，适合贸易和制造业；中西部地区成本较低，享受更多政策优惠。建议根据产业特点和战略规划选择合适的投资地区。 **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "建议选择具有涉外法律服务经验的中国律师。考虑律师的专业领域、执业年限、成功案例、收费标准等因素。可以通过律师事务所官网、律师协会网站或同行推荐选择。建议面谈律师，了解其专业能力和沟通方式。选择当地知名律师事务所的律师更可靠。 **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "What is the compliance process for major changes in private fund managers?",
+      "name": "[Financial Compliance] What certificates do foreign nationals need to work in China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Compliance process includes: internal decision procedures including board and shareholder resolutions; submitting change applications to AMAC; for senior management changes, personnel should have practitioner qualifications; for controlling shareholder or actual controller changes, legal opinions required; maintaining compliant operations during changes; updating registration information after completion. Major changes without filing may affect fund product filing."
+        "text": "Foreign nationals working in China need to obtain a Foreigner's Employment Permit or Foreign Expert Certificate. Required documents include a valid passport, visa, health certificate, no-criminal-record certificate, educational credentials with authentication, and employment contract. The employer must first apply for an employment permit from the local human resources and social security bureau. Then the foreign national applies for a work visa (Z visa) at the Chinese embassy or consulate abroad, and after entry, completes the employment permit and residence permit procedures. The entire process takes approximately 1-3 months. China has introduced convenience measures like \\\"one-window service\\\" in recent years, with online applications available in some cities. We recommend that employers plan ahead and allow sufficient time. **来源：** 央媒特聘普法专家法牛所李主任18664921865"
       }
     },
     {
       "@type": "Question",
-      "name": "跨境电商从业者须知：上市公司关联交易的法律规制",
+      "name": "【婚姻家事】违规配资的法律定性",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "上市公司关联交易的法律规制包括：关联交易的定义和范围；关联交易的决策程序，如关联董事、关联股东回避表决；关联交易的披露要求；关联交易的公允性要求，如定价公允、程序合规；关联交易的禁止情形，如显失公平的关联交易无效。上市公司应当建立健全关联交易管理制度，规范关联交易行为。"
+        "text": "违规配资是指未经批准，机构或个人提供资金供他人进行证券交易，并收取利息或费用行为。违规配资可能涉及的法律问题包括：非法经营罪，如配资业务属于证券经营业务范畴；非法集资罪，如向社会公众吸收资金进行配资；诈骗罪，如以配资为名实施诈骗；合同纠纷，如配资合同的法律效力。不同情形需要准确适用法律。"
       }
     },
     {
       "@type": "Question",
-      "name": "港澳台同胞须知：欧美华人如何处理继承权纠纷？",
+      "name": "【劳动法】跨境执行中如何应对债务人转移财产？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "欧美华人处理继承权纠纷可以通过以下途径：首先协商解决，与其他继承人沟通协商，争取达成一致意见。调解解决，可以申请人民调解委员会或律师调解室进行调解，调解协议具有法律效力。诉讼解决，向被继承人死亡时住所地或主要遗产所在地人民法院提起诉讼。诉讼时效为三年，从继承人知道或应当知道权利被侵害之日起计算。涉外继承纠纷可能涉及法律适用、管辖权、判决承认等问题。涉及重大利益的，建议委托专业律师代理，维护自身合法权益。"
+        "text": "跨境执行中应对债务人转移财产的措施包括：申请财产保全措施冻结资产；调查债务人财产转移行为；主张债权人撤销权撤销债务人无偿或低价转让财产行为；追究相关方协助转移财产的法律责任；通过资产追踪发现隐匿财产。预防和应对财产转移需要及时行动和专业协助。"
       }
     },
     {
       "@type": "Question",
-      "name": "【跨境电商】泰国华人在中国投资需要办理哪些证照？",
+      "name": "【涉外投资】欧美华人如何进行股票分割与合并？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "根据投资类型不同，需要办理不同证照。设立企业需要营业执照、税务登记、组织机构代码证等。特殊行业需要行业许可证，如食品经营许可证、安全生产许可证等。建议咨询当地市场监督管理局或专业律师，了解具体需要办理的证照。所有证照应在营业前办理完毕。 **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "欧美华人了解股票分割与合并需要知道以下内容：股票分割（如10送10）是将一股拆分为多股，降低每股价格，增加股份数量；股票合并（如10缩1）是将多股合并为一股，提高每股价格，减少股份数量。投资者持有的总市值在分割或合并前后不变。股票分割通常被视为利好，可能刺激股价上涨；股票合并可能被视为利空，但有时也表明公司对股价的信心。投资者需要注意，股票分割或合并后需要重新计算持股成本。对于B股投资者，还需要关注汇率因素的影响。"
       }
     },
     {
       "@type": "Question",
-      "name": "【房产纠纷】泰国华人在中国离婚后子女抚养权归谁？",
+      "name": "【婚姻家事】新加坡华人在中国购房合同纠纷诉讼时效多久？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "子女抚养权归属以子女最佳利益为原则。法院会考虑双方抚养能力、抚养意愿、与子女关系、经济条件等因素。两岁以下子女一般随母亲生活，8岁以上应考虑子女意愿。可以协商轮流抚养或一方抚养另一方支付抚养费。抚养费根据对方收入和当地标准确定。 **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "普通合同纠纷诉讼时效为三年。房产纠纷如涉及不动产物权，适用特殊诉讼时效。购房合同纠纷建议尽快起诉，避免超过诉讼时效。保留好所有往来函件和证据。诉讼时效可以因起诉而中断。 **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "【涉外投资】外派非洲期间社保怎么处理？",
+      "name": "【交通事故】欧美华人回国设立公司选择哪种企业类型更合适？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "国内社保应继续缴纳，同时在当地购买补充保险。法牛所帮助企业合规处理外派员工社保。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户。"
+        "text": "欧美华人回国投资设立公司主要有三种类型可供选择：中外合资经营企业、中外合作经营企业和外资独资企业。选择时需考虑以下因素：如果希望借助中方合作伙伴的资源和渠道，合资或合营形式更为合适；如果希望保持完全控制权并独立运营，外资独资企业是最佳选择；如果希望灵活安排投资回报机制，合作企业可以提供更多空间。从税务角度，三种类型均适用中国税法，但具体税负可能因行业、地区优惠政策而异。从管理角度，外资独资企业决策效率更高，但需要更高的本地化运营能力。建议根据具体业务需求和长期发展战略选择合适的企业类型。"
       }
     },
     {
       "@type": "Question",
-      "name": "华侨须知：跨境投资中的环境保护合规要求是什么？",
+      "name": "[New Company Law] What should Singaporean Chinese pay attention to when signing franchise contracts in China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "跨境投资环境保护合规要求包括：遵守东道国环境保护法律法规；进行环境影响评价；取得必要的环境保护许可；遵守污染物排放标准；建立环境管理体系；关注气候变化和碳排放要求；及时报告环境事故。环境保护是境外投资可持续发展的重要方面。"
+        "text": "Franchise contracts should clearly specify franchise content, term, fees, area scope, operation standards, training support, intellectual property use, breach of contract liability, etc. Understand the franchisor's qualifications and brand status. Verify the franchisor's franchise filing status. Have professional lawyers review contract terms. **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "根据最新法律规定，印尼华人如何在中国办理婚前财产公证？",
+      "name": "华侨须知：泰国华人在中国投资P2P网贷平台安全吗？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "婚前财产公证需要双方携带身份证明、财产证明（如房产证、银行流水）等材料到公证处办理。公证员会对财产进行核实并出具公证书。婚前财产公证可以明确财产归属，避免日后纠纷。建议在结婚前办理。 **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "不建议投资。近年来中国P2P网贷行业风险集中爆发，大量平台爆雷、跑路。监管部门已基本取缔P2P业务。投资此类平台存在资金损失风险。建议选择正规持牌金融机构进行投资，如银行、证券、基金等。如已投资且发生损失，应及时向公安机关报案，寻求法律救济。 **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "【刑事辩护】消费金融公司的设立条件是什么？",
+      "name": "华侨须知：欧美华人如何通过沪港通、深港通投资中国股票？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "消费金融公司的设立条件包括：主要出资人具有消费金融优势资源和管理经验；注册资本符合规定要求；具有符合任职资格的董事、监事和高级管理人员；具有健全的公司治理和内部控制制度；具有与业务规模相适应的营业场所和业务系统；具有良好的风险管理和合规能力。消费金融公司应当依法取得消费金融牌照。"
+        "text": "欧美华人通过沪港通、深港通投资中国股票需要了解以下要点：沪港通允许香港投资者买卖上交所上市的特定股票，深港通允许买卖深交所上市的特定股票。投资者需要通过香港券商开立账户，该券商需为沪港通、深港通的参与券商。交易遵循中国内地证券法律法规，交易结算遵循香港结算规则。每日交易额度有限制，可投资的股票范围由监管机构定期公布。投资者需要注意汇率风险，交易以人民币结算。资本利得和股息需要按规定缴纳个人所得税。建议选择合规的券商进行操作。"
       }
     },
     {
       "@type": "Question",
-      "name": "在实务中，欧美华人如何参与网下打新？",
+      "name": "[Criminal Defense] Should Malaysian Chinese pay attention to intellectual property when signing cooperation contracts in China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "欧美华人参与网下打新（新股网下询价和申购）需要满足以下条件：机构投资者需在中国证券业协会完成注册，符合主板、科创板、创业板等不同的资质要求；个人投资者需满足资产门槛（沪深各600万元）、投资经验、信用记录等条件。网下打新需要向主承销商提交询价请求，经过询价后进行申购。中签后按发行价缴款认购。网下打新的中签率通常高于网上打新。需要注意的是，科创板和创业板的网下打新对机构投资者的专业能力有更高要求。建议充分了解相关规则后再参与。"
+        "text": "Very important. Cooperation contracts should clearly specify intellectual property ownership, usage rights, licensing scope, confidentiality obligations, non-competition, etc. Technology cooperation needs to clarify ownership and use of technical results. It is recommended to entrust professional lawyers to draft intellectual property clauses. Retain intellectual property-related documents. **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "【新公司法】国际商事仲裁的法律依据是什么？",
+      "name": "【知识产权】外国人在中国开公司需要多少注册资本？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "国际商事仲裁的法律依据包括：国内法层面的《仲裁法》《民事诉讼法》相关规定；《承认及执行外国仲裁裁决公约》（纽约公约）为中国承认和执行外国仲裁裁决提供了国际法基础；双边投资协定中的仲裁条款；相关司法解释。国际商事仲裁是解决跨境商业争议的重要方式，具有保密性、灵活性和国际可执行性等优势。"
+        "text": "这是海外华人常见的法律需求。广东法牛律师事务所李茂淑主任团队有丰富的涉外法律服务经验，可为海外客户提供专业解决方案。具体案情请拨打18664921865咨询。"
       }
     },
     {
       "@type": "Question",
-      "name": "华侨须知：外商投资企业如何申请发明专利优先审查？",
+      "name": "留学生须知：涉外离婚子女抚养费的给付标准是什么？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "外商投资企业申请发明专利优先审查需要符合以下条件之一：涉及节能环保、新一代信息技术、生物、高端装备制造、新能源、新材料、新能源汽车、智能制造等国家重点发展产业；涉及各省级和设区的市级人民政府重点鼓励的产业；涉及互联网、大数据、云计算等领域且技术或者产品更新速度快；共案申请人同为实质审查请求人或提出优先审查请求前同意实质性审查后续启动；其他对国家利益或者公共利益具有重大意义需要优先审查。申请流程：提交优先审查请求书及相关证明材料，由国家知识产权局审批。符合条件的申请可加快审查进度。"
+        "text": "涉外离婚子女抚养费给付标准：根据子女实际需要、父母负担能力、当地生活水平确定；通常为不直接抚养方月收入的20%-30%；支付方式可以是定期支付或一次性支付；抚养费随情况变化可以请求调整。抚养费应当确保子女生活质量不因父母离婚而下降。"
       }
     },
     {
       "@type": "Question",
-      "name": "【新公司法】老鼠仓行为的法律定性",
+      "name": "[Intellectual Property] Can Indonesian Chinese apply for green cards when investing in China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "老鼠仓是指金融机构从业人员利用因职务便利获取的未公开信息，违反规定从事与该信息相关的证券、期货交易活动的行为。老鼠仓本质上是内幕交易的一种特殊形式，刑法修正案将其单独规定为利用未公开信息交易罪。该罪与内幕交易罪的主要区别在于信息性质不同：内幕交易利用的是内幕信息，而老鼠仓利用的是\\\"未公开信息\\\"。量刑标准参照内幕交易罪执行。"
+        "text": "Foreigners can apply for permanent residency (green card) in China. Application conditions include: direct investment in China, stable investment situation for three consecutive years and good tax records; working in China for four years, living at least six months annually, with tax records; outstanding contributions or special skills. It is recommended to consult the local Public Security Bureau Exit-Entry Administration Department for detailed requirements. **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "【房产纠纷】证券公司被暂停业务资格期间的法律问题",
+      "name": "外资企业须知：越南华人海外所得属于夫妻共同财产吗？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "证券公司被暂停业务资格期间的法律问题包括：暂停期间不得开展被暂停的业务活动；已签约客户关系如何处理；员工劳动合同如何履行；是否仍需履行信息披露义务；相关资质到期如何续期等。证券公司应制定应对预案，确保暂停期间合法合规运营，保护客户合法权益。"
+        "text": "根据中国法律，婚姻关系存续期间一方所得财产原则上属于夫妻共同财产，包括海外所得。但需要考虑中国法院是否有管辖权以及外国判决的承认问题。涉及跨境财产分割的建议咨询专业律师。 **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "【金融合规】证券犯罪案件中技术侦查措施的适用",
+      "name": "[Labor Law] What should Thai Chinese do if the purchased house in China has reduced area?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "证券犯罪案件中技术侦查措施的适用包括：监听、窃听等技术侦查手段；乔装侦查；诱惑侦查等。技术侦查措施的适用需要经过严格审批程序；收集的材料可以作为证据使用；涉及国家秘密、商业秘密的应当保密。技术侦查措施是打击证券犯罪的重要手段，但受到严格法律规制。"
+        "text": "Reduced housing area constitutes developer breach. Can demand the developer to refund the overcharged amount and interest. If the area error exceeds 3%, can request contract termination and refund or continued performance with compensation. It is recommended to check the contract terms regarding area error handling. When receiving the house, carefully verify the measured area. **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "【知识产权】外派期间工资被拖欠怎么办？",
+      "name": "[Traffic Accidents] How can overseas Chinese investors avoid contract traps when investing in China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "向劳动监察部门投诉或申请劳动仲裁。法牛所帮助被欠薪的外派员工维权。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户。"
+        "text": "Overseas Chinese investors avoiding contract traps should note the following points. Conduct comprehensive due diligence on counterparties before contracting, understanding their credit status, commercial reputation, and legal disputes. Contract terms should be clear and specific, avoiding vague language—particularly regarding subject matter, quantity, quality standards, prices, and performance periods. Scrutinize breach liability clauses to ensure responsibilities are reasonable and enforceable. Pay attention to exemption and liability limitation clauses in standard-form contracts. Request use of your own contract templates or thoroughly modify the other party's templates. Engaging professional lawyers to review contracts before signing, rather than neglecting risk review due to time pressure, is recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865"
       }
     },
     {
       "@type": "Question",
-      "name": "【房产纠纷】新加坡华人在中国签订股权转让合同要注意什么？",
+      "name": "留学生须知：放弃中国国籍后国内财产怎么处理？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "股权转让合同应明确转让标的、转让价格、付款方式、股权交割、债权债务处理、过渡期安排、陈述保证、违约责任等。需要进行尽职调查，了解公司财务状况、股权结构、诉讼情况等。由专业律师起草合同。 **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "不影响财产权利，但处置财产时需使用护照+身份变更证明。法牛所帮助外籍华人处理国内资产处置法律手续。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。"
       }
     },
     {
       "@type": "Question",
-      "name": "跨境电商从业者须知：欧美华人如何处理跨国离婚财产执行问题？",
+      "name": "华侨须知：外国人在中国买房限购政策？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "欧美华人处理跨国离婚财产执行问题需要考虑以下方面：如果国内法院已作出财产分割判决，需要到财产所在国申请承认和执行，取决于两国是否有司法协助条约或互惠关系。中国已与多个国家签署司法协助条约，可以通过条约途径申请承认和执行。对于不动产，一般由不动产所在地法院专属管辖。对于动产，可以由判决地法院或被执行人住所地法院管辖。建议在离婚诉讼时就考虑财产执行问题，尽可能取得有利于执行的判决。"
+        "text": "这是海外华人常见的法律需求。广东法牛律师事务所李茂淑主任团队有丰富的涉外法律服务经验，可为海外客户提供专业解决方案。具体案情请拨打18664921865咨询。"
       }
     },
     {
       "@type": "Question",
-      "name": "[New Company Law] How should Vietnamese Chinese collect electronic evidence when encountering contract disputes in China?",
+      "name": "[Financial Compliance] How can overseas Chinese respond to false statements by listed companies?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Electronic evidence includes emails, WeChat chat records, text messages, web screenshots, electronic contracts, etc. When collecting, retain the original carrier and notarize if necessary. Ensure the integrity and authenticity of electronic evidence. Can apply to notary offices for notarized preservation of electronic evidence. **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "Overseas Chinese responding to false statements by listed companies can take the following rights-protection measures. First, collect evidence including company announcements, financial reports, and media reports proving the existence of false statements. Next, determine loss calculation methods including investment difference losses, commissions, and stamp duties. Then, file civil compensation lawsuits with competent people's courts within the statute of limitations. According to law, investors who bought stocks after false statement implementation dates and suffered losses from selling or holding stocks after disclosure dates can claim compensation. Note that the statute of limitations is three years from CSRC administrative penalty decisions or when investors knew or should have known. Engaging professional lawyers as representatives is recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865"
       }
     },
     {
       "@type": "Question",
-      "name": "[Labor Law] How can foreign-invested enterprises process work visas for foreign employees?",
+      "name": "【劳动法】欧美华人如何应对上市公司虚假陈述？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Foreign-invested enterprises processing work visas must apply for work permits and residence permits for foreign employees. First, enterprises apply to local foreign worker management departments for the People's Republic of China Foreigner Work Permit Notice. Upon approval, foreign employees apply for work visas (Z visas) at Chinese embassies or consulates. Within 15 days after entry, they must apply for foreigner residence permits with public security exit-entry departments. Enterprises simultaneously apply for Foreigner Work Permits for employees. Required materials include passports, visas, health certificates, educational authentication, no-criminal-record certificates, and employment contracts. Beginning preparation three months in advance is recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865"
+        "text": "欧美华人应对上市公司虚假陈述可以采取以下维权措施：首先，收集证据，包括公司公告、财务报告、媒体报道等证明虚假陈述存在的材料。其次，确定损失计算方式，包括投资差额损失、佣金、印花税等。再次，在诉讼时效内向有管辖权的人民法院提起民事赔偿诉讼。根据法律规定，投资者在虚假陈述实施日后买入、揭露日后卖出或持有股票而遭受损失的，可以要求赔偿。需要注意的是，诉讼时效为三年，从证监会作出行政处罚决定之日或投资者知道、应当知道之日起算。建议委托专业律师代理。"
       }
     },
     {
       "@type": "Question",
-      "name": "【跨境电商】证券从业人员代客理财的法律后果",
+      "name": "外资企业须知：内幕交易行政处罚后能否再追究刑事责任？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "证券从业人员代客理财的法律后果包括：行政处罚，如警告、罚款、市场禁入等；民事责任，如从业人员与客户之间的合同效力问题、赔偿责任等；刑事责任，如可能构成非法经营罪、诈骗罪等。代客理财是明令禁止的行为，从业人员应当严格遵守职业规范，避免触碰法律红线。"
+        "text": "内幕交易行为可能同时触发行政责任和刑事责任。根据一事不再理原则，行政处罚与刑事责任属于不同法律性质的制裁，原则上可以同时适用。但刑事追诉需要满足\\\"情节严重\\\"的入罪标准，该标准通常高于行政处罚标准。如果同一行为已受行政处罚，刑事追诉时应考虑行政处罚的折抵问题。专业律师应审查是否满足刑事追诉条件，争取有利结果。"
       }
     },
     {
       "@type": "Question",
-      "name": "违规披露、不披露重要信息罪的构成要件",
+      "name": "【新公司法】外籍人士在中国签订合同需要注意什么？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "违规披露、不披露重要信息罪是指依法负有信息披露义务的公司和企业，故意向股东和社会公众提供虚假的或者隐瞒重要事实的财务会计报告，或者对依法应当披露的其他重要信息不按照规定披露，严重损害股东或者其他人利益的行为。构成要件包括：主体为负有信息披露义务的单位和个人；行为表现为虚假披露或不披露；情节严重且造成严重损害后果。"
+        "text": "外籍人士在中国签订合同应注意以下要点：首先，合同文本应使用中文，或准备中英文双语版本，明确约定以中文版本为准。其次，应明确合同主体资格，外籍当事人需提供有效的身份证明和授权文件，并办理公证认证手续。再次，合同条款应完整明确，包括标的、数量、质量、价款、履行期限、违约责任等必备条款。还应注意法律适用和争议解决条款，建议选择中国法院管辖或指定仲裁机构。最后，合同签署前应进行充分的尽职调查，了解交易对手的资信状况。建议聘请专业律师参与合同起草和审核。"
       }
     },
     {
       "@type": "Question",
-      "name": "港澳台同胞须知：资产管理产品的分类监管要求是什么？",
+      "name": "【证券犯罪】欧美华人回国投资如何处理知识产权归属问题？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "资产管理产品的分类监管要求包括：根据产品类型适用不同的监管规则；固定收益类产品投资存款、债券等固收资产比例不低于80%；权益类产品投资股票、未上市股权等权益资产比例不低于80%；商品及金融衍生品类产品投资商品及衍生品比例不低于80%；混合类产品投资上述各类资产比例未达标准的按照混合类监管。产品分类一旦确定不得随意变更。"
+        "text": "欧美华人回国投资处理知识产权归属问题应注意以下几点：首先要明确职务发明的界定，根据中国法律，员工在执行工作任务或主要利用单位物质技术条件完成的发明创造属于职务发明，归属单位所有。其次，在合资合作中，知识产权的归属应在合同中明确约定，包括现有知识产权和合作期间产生的知识产权。再次，个人名义申请的专利、注册的商标，如与公司业务相关，建议转让给公司。还有涉及委托开发的技术，应在委托合同中明确知识产权归属。建议在投资前进行知识产权尽职调查，投资后建立完善的知识产权管理制度。"
       }
     },
     {
       "@type": "Question",
-      "name": "【婚姻家事】欧美华人如何处理继承权纠纷？",
+      "name": "【证券犯罪】马来西亚华人在中国投资需要注意消费者权益保护吗？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "欧美华人处理继承权纠纷可以通过以下途径：首先协商解决，与其他继承人沟通协商，争取达成一致意见。调解解决，可以申请人民调解委员会或律师调解室进行调解，调解协议具有法律效力。诉讼解决，向被继承人死亡时住所地或主要遗产所在地人民法院提起诉讼。诉讼时效为三年，从继承人知道或应当知道权利被侵害之日起计算。涉外继承纠纷可能涉及法律适用、管辖权、判决承认等问题。涉及重大利益的，建议委托专业律师代理，维护自身合法权益。"
+        "text": "需要注意。中国《消费者权益保护法》对商品和服务质量、售后服务、信息披露等有严格要求。企业应诚信经营，保障消费者知情权、选择权、公平交易权。违反消费者权益保护法可能面临惩罚性赔偿。建议建立健全的客户服务和投诉处理机制。 **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "【交通事故】欧美华人如何办理股票账户销户？",
+      "name": "【知识产权】金融数据安全管理的合规要求是什么？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "欧美华人办理股票账户销户需要准备以下材料：有效身份证件、证券账户卡（如有）、结清所有证券持仓和资金余额。如账户中仍有股票，需先卖出或转托管至其他券商账户；如有资金，需将资金转出至绑定的银行账户。办理流程：到开户券商营业部填写销户申请表，提交身份验证，券商审核通过后完成销户。如通过网上开户，可能需要通过线上渠道申请销户。销户后，如需再次开户，需要重新办理开户手续。建议销户前确认是否还有未了结的业务或纠纷。"
+        "text": "金融数据安全管理的合规要求包括：建立数据安全管理组织架构；制定数据安全管理制度和操作规程；实施数据分类分级管理；采取技术措施保障数据安全；定期开展数据安全风险评估；建立数据安全事件应急处置机制；确保个人信息保护合规；配合监管部门数据安全监管。金融数据安全管理是金融合规的重要组成部分。"
       }
     },
     {
       "@type": "Question",
-      "name": "【涉外投资】银行理财产品的合规销售要求有哪些？",
+      "name": "华侨须知：金融科技公司开展金融业务需要申请哪些牌照？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "银行理财产品的合规销售要求包括：销售机构应当具备相应资质；不得宣传或承诺保本保收益；应当进行投资者适当性评估；应当充分揭示产品风险；风险评级应当与投资者风险承受能力匹配；销售过程应当全程录音录像；销售人员应当具备从业资格；不得拆分理财产品份额或降低投资者门槛。"
+        "text": "金融科技公司开展金融业务需要申请的牌照包括：开展贷款业务需申请网络小额贷款牌照或消费金融牌照；开展支付业务需申请第三方支付牌照；开展保险经纪业务需申请保险经纪牌照；开展基金销售需申请基金销售牌照；开展融资担保需申请融资担保牌照。金融科技公司应当根据业务类型取得相应资质。"
       }
     },
     {
       "@type": "Question",
-      "name": "【劳动法】涉外遗产分割协议有效吗？",
+      "name": "[Intellectual Property] How can overseas Chinese identify \\\"cutting leeks\\\" behaviors?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "涉外遗产分割协议效力：继承人可以协商分割遗产；分割协议应当采用书面形式；协议不得违反法律规定；涉及境外财产的，协议效力可能受外国法律影响；遗产分割协议是继承人之间的合同。分割协议应当公平合理。"
+        "text": "Overseas Chinese identifying \\\"cutting leeks\\\" (manipulation) behaviors should note the following characteristics. During positioning phases, stock prices fall without volume; during ramping phases, prices rapidly rise with favorable news; during distribution phases, trading volume expands while prices stagnate or decline; after shipment completion, prices plummet. Identification methods include monitoring the relationship between trading volume and price movements; being wary of abnormal favorable news coinciding with price increases; noting rapid shareholder number changes; analyzing dragon and tiger list data and frequently appearing speculative trading seats; and avoiding chasing rises and selling declines while maintaining rationality. Investors should establish value investment concepts, focus on company fundamentals, and avoid blindly following trends. Obtaining investment advice through formal channels is recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865"
       }
     },
     {
       "@type": "Question",
-      "name": "【刑事辩护】欧美华人如何处理跨国子女抚养费执行？",
+      "name": "[Cross-border E-commerce] What advantages do overseas Chinese have when establishing partnership enterprises in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Partnership enterprises offer several advantages for overseas Chinese investors. Establishment procedures are relatively simple—requiring only industrial and commercial registration without commerce department approval. Tax advantages are significant, as partnerships are not subject to corporate income tax; partners pay individual income tax on distributed profits, avoiding double taxation. Management flexibility allows direct partner participation in operations with relatively flexible decision-making. Partners can contribute non-monetary assets like services and technology. However, partners bear unlimited joint and several liability for debts, creating higher risks suitable for partners with strong mutual trust. We recommend careful consideration of specific circumstances before choosing this structure. **来源：** 央媒特聘普法专家法牛所李主任18664921865"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "【知识产权】国内房产被擅自抵押怎么处理？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "如非本人签字，抵押行为无效。可向法院起诉确认抵押合同无效并注销抵押登记。法牛所协助海外房主维权。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "跨境电商从业者须知：仲裁裁决与法院判决的执行区别是什么？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "仲裁裁决与法院判决执行区别包括：仲裁裁决执行依据《纽约公约》或双边条约；法院判决执行依据互惠原则或条约；仲裁裁决执行由中级人民法院审查；法院判决执行程序与国内判决类似；仲裁裁决执行审查标准相对统一；法院判决执行审查更为严格。两者执行机制存在显著差异。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "法律风险提示：印尼华人在中国投资可以申请绿卡吗？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "外国人在中国可以申请永久居留权（绿卡）。申请条件包括：在中国直接投资、连续三年投资情况稳定且纳税记录良好；在中国工作满四年、每年居住不少于六个月且有纳税记录；有突出贡献或特殊技能等。建议咨询当地公安局出入境管理部门了解详细要求。 **央媒特聘普法专家法牛所李主任18664921865**"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "欧美华人如何处理跨国子女抚养费执行？",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "欧美华人处理跨国子女抚养费执行需要了解以下途径：首先看两国是否签署了关于抚养费执行的国际条约，中国已加入《海牙抚养义务公约》。可以通过公约规定的中央机关机制申请执行。没有条约关系的，可以向被执行人住所地或财产所在地的法院提起诉讼，请求判决承认和执行。在国内取得的抚养费判决，需要通过司法协助或外交途径向外国申请承认和执行。实际操作中，跨国抚养费执行难度较大，建议在离婚时尽可能协商达成抚养费支付安排。"
@@ -891,242 +923,210 @@
     },
     {
       "@type": "Question",
-      "name": "[Securities Crime] What should Vietnamese Chinese do if they discover illegal construction after purchasing property in China?",
+      "name": "返程投资的法律规定和登记要求是什么？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Upon discovering illegal construction, can demand the developer to assume breach of contract liability and compensate losses. The illegal construction may be demolished, affecting normal use. If the developer intentionally concealed the illegal construction fact, it constitutes fraud and punitive compensation can be claimed. Report illegal construction to local city management or planning departments. Verify housing planning and construction legality before purchase. **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "返程投资是指境内居民通过特殊目的公司对境内开展的直接投资。法律规定和登记要求包括：境内居民应当向外汇管理部门办理境外投资外汇登记；特殊目的公司发生股权变更等重大事项应办理变更登记；返程投资设立的外商投资企业应当按照外商投资法律办理；未按规定办理登记的，商务部门不予办理相关手续。返程投资登记是后续融资和返程投资企业合规运营的基础。"
       }
     },
     {
       "@type": "Question",
-      "name": "[Real Estate Disputes] How can Vietnamese Chinese divorce if their spouse is missing?",
+      "name": "在实务中，泰国华人在中国签合同对方违约怎么办？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If a spouse has been missing for 2 years, an application can be filed with the court to declare the spouse missing. After the missing declaration, a divorce lawsuit can be filed with the court. If the spouse has been missing for 4 years, an application can be filed for death declaration. After the death declaration, the marriage is automatically dissolved. Applications for missing or death declaration require evidence materials. **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "对方违约可以采取以下措施：发送律师函催告履行；要求赔偿实际损失和可得利益损失；可以解除合同并要求赔偿；向法院起诉或申请仲裁；申请财产保全。保留好违约证据。根据合同约定采取相应措施。 **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "跨境电商从业者须知：外商投资企业如何申请软件企业认定？",
+      "name": "港澳台同胞须知：可疑交易识别的标准是什么？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "外商投资企业申请软件企业认定需满足以下条件：在深圳注册的居民企业；以软件产品开发销售为主营业务；具有依法缴纳社会保障资金的良好记录；具有软件开发测试所需的技术装备和经营场所；软件销售收入占企业收入总额的比例不低于50%；自主知识产权软件产品的收入占软件销售收入的比重不低于40%；研究开发费用占软件收入的比例不低于8%。申请通过后，可享受增值税即征即退优惠政策，以及企业所得税方面的优惠。"
+        "text": "可疑交易识别的标准包括：交易金额、频率与客户身份背景、经营范围不符；资金流向异常，如短期内大量资金快进快出；资金来源或去向涉及高风险国家或地区；交易模式与正常商业惯例不符；交易对手涉及制裁名单或黑名单人员；短期内集中与特定主体发生大额交易；其他与洗钱特征相符的交易。金融机构应当建立可疑交易监测模型。"
       }
     },
     {
       "@type": "Question",
-      "name": "海外华人须知：海外华人购房后如何办理产权登记？",
+      "name": "【跨境电商】跨境执行中的财产调查措施有哪些？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "海外华人购房后产权登记流程包括：签订购房合同；办理网签备案；缴纳契税等税费；向不动产登记机构提交登记申请，提供身份证明、购房合同、完税证明等材料；不动产登记机构审核后颁发不动产权证书。登记是取得不动产物权的法定要件，应当及时办理。"
+        "text": "跨境执行中财产调查措施包括：委托当地律师调查债务人在当地的资产；通过银行系统查询账户信息；通过不动产登记系统查询房产；通过公司登记系统查询股权；申请法院协助调查；利用网络执行查控系统。跨境财产调查需要不同法域的配合和专业人士协助。"
       }
     },
     {
       "@type": "Question",
-      "name": "[Securities Crime] How can foreign-invested enterprises manage related-party transaction compliance?",
+      "name": "实务操作中常见问题：越南华人购买中国房产可以申请法律援助吗？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Foreign-invested enterprises managing related-party transaction compliance should establish comprehensive internal control systems. Formulate related-party transaction management systems defining related parties, approval procedures, and information disclosure requirements. Establish sound related-party transaction ledgers for timely recording and updating. Related-party transactions should follow fairness, justice, and openness principles with pricing following arm's length principles—independent third-party assessments may be necessary. Conduct related-party transaction information disclosure and reporting to shareholders' meetings and boards for approval. Cooperate with tax authority transfer pricing investigations by preparing contemporaneous documentation. Regular related-party transaction compliance audits are recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865"
+        "text": "外籍人士一般不能申请中国法律援助。房产纠纷涉及金额较大，建议聘请专业律师代理。如果经济困难，可以与律师事务所协商费用分期支付或风险代理。部分律所提供免费咨询服务。建议选择有涉外案件经验的律师。 **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "法律风险提示：越南华人在中国签合同需要购买商业保险吗？",
+      "name": "【刑事辩护】中国有集体诉讼制度吗？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "根据合同类型和风险情况，建议购买相关商业保险。如财产险、货运险、工程险、责任险等。保险可以在发生意外损失时提供保障。建议在合同中明确保险责任分担。咨询保险经纪人选择合适的保险产品。 **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "中国称为代表人诉讼制度，证券领域已落地特别代表人诉讼。与普通法class action有区别。法牛所在证券诉讼领域有丰富经验。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。"
       }
     },
     {
       "@type": "Question",
-      "name": "【金融合规】欧美华人持有的限售股如何减持？",
+      "name": "【婚姻家事】欧美华人如何参与ETF投资？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "欧美华人持有的限售股减持需要遵守相关规定：限售股通常包括IPO前股份、定增股份、股权激励股份等，不同类型有不同的限售期。减持需要提前披露减持计划，通过交易所进行减持操作。大股东减持需遵守信息披露要求，提前15个交易日披露减持计划。减持方式包括集中竞价、大宗交易、协议转让等。创业板、科创板对减持有更严格的限制。集中竞价减持在任意连续90个自然日内不超过股份总数的1%，大宗交易不超过2%。建议在减持前咨询专业机构，制定合理的减持方案。"
+        "text": "欧美华人参与ETF（交易型开放式指数基金）投资可以通过以下方式：在一级市场进行申购赎回，通常有较大的认购起点；通过券商在二级市场买卖ETF，像买卖股票一样交易。ETF的特点包括：分散投资，降低单只股票风险；费率较低，管理费用通常低于主动管理型基金；交易便捷，可在交易时间内随时买卖；透明度高，持仓信息公开。常见的ETF类型包括：宽基指数ETF（如沪深300ETF）、行业ETF、主题ETF、跨境ETF等。投资者应根据自身风险偏好和投资目标选择合适的ETF。"
       }
     },
     {
       "@type": "Question",
-      "name": "【涉外投资】欧美华人如何处理跨国遗产管理人指定？",
+      "name": "【房产纠纷】中东工程项目拖欠工程款怎么追讨？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "欧美华人处理跨国遗产管理人指定需要注意以下问题：中国法院指定的遗产管理人，在外国申请承认和执行，取决于两国是否有司法协助条约。外国法院指定的遗产管理人，在中国申请承认和执行，同样需要条约或互惠基础。跨境遗产管理需要平衡不同国家法律的要求。建议选择具有国际业务经验的律师或专业机构担任遗产管理人。遗产管理人应当尽职尽责，维护所有继承人的合法权益。"
+        "text": "先发送律师函催告，无果后按合同约定的争议解决方式仲裁或诉讼。法牛所在中东工程纠纷领域有丰富经验。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户。"
       }
     },
     {
       "@type": "Question",
-      "name": "[Cross-border E-commerce] Do Thai Chinese need to consider exchange rate risks when investing in China?",
+      "name": "港澳台同胞须知：在海外有时差怎么和中国律师沟通？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Cross-border investment involves conversion between RMB and foreign currencies, and exchange rate fluctuations affect investment returns. It is recommended to pay attention to exchange rate trends and choose appropriate timing for conversion. You can use tools such as forward foreign exchange settlement and foreign exchange options for hedging. It is recommended to consult bank foreign exchange advisors to understand exchange rate risk management tools. **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "法牛所支持微信/WhatsApp/邮件/Zoom多渠道沟通，李主任团队覆盖多个时区，可根据您的时间安排会议。紧急事务24小时内响应。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。"
       }
     },
     {
       "@type": "Question",
-      "name": "外资企业须知：如何认定内幕信息知情人范围？",
+      "name": "新加坡华人在中国离婚可以协议孩子境外生活吗？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "内幕信息知情人包括：发行人的董事、监事、高级管理人员；持有公司百分之五以上股份的股东及其董事、监事、高级管理人员；发行人控股的公司及其董事、监事、高级管理人员；由于所任公司职务可以获取公司有关内幕信息的人员；证券监督管理机构工作人员以及由于法定职责对证券的发行、交易进行管理的人员；保荐人、承销的证券公司、证券交易所、证券登记结算机构、证券服务机构的有关人员等。实践中对\\\"知情人员\\\"的界定存在争议空间。"
+        "text": "可以，但需要双方协议同意。如果一方带孩子长期在境外生活涉及居住地变更，需要与对方协商并取得同意。未经对方同意带孩子出境可能构成侵权。法院会根据子女最佳利益原则判决。建议通过律师起草抚养协议。 **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "【新公司法】欧美华人如何参与沪市股票打新？",
+      "name": "【房产纠纷】泰国华人在中国离婚可以要求家务劳动补偿吗？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "欧美华人参与沪市股票打新需要注意以下要点：沪市打新需要持有沪市股票市值，计算方式是T-2日前20个交易日的日均市值。沪市每10000元市值对应一个申购单位（1000股）。申购时间为T日的9:30-15:00。沪市主板新股申购需要开通相应权限，科创板新股申购需要开通科创板权限（50万资产+2年经验）。申购成功后需在T+2日16:00前确保资金账户有足够资金。中签后如果连续12个月累计3次中签未缴款，将被限制打新6个月。"
+        "text": "可以。《民法典》规定，夫妻一方因抚育子女、照料老人、协助另一方工作等负担较多义务的，离婚时有权向另一方请求补偿。家务劳动补偿金额由双方协商或法院判决。补偿标准根据具体情况确定。保留好为家庭付出较多的证据。 **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "[Family Law] How can Cambodian Chinese resolve disputes arising from investment in China?",
+      "name": "海外华人须知：金融控股公司的设立要求是什么？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Disputes can be resolved through negotiation, mediation, arbitration, or litigation. It is recommended to clearly specify the dispute resolution method and jurisdiction court in the contract. Foreign-related disputes can specify litigation in Chinese courts or arbitration with the China International Economic and Trade Arbitration Commission. For disputes involving significant amounts, promptly hire Chinese lawyers, collect evidence, and protect legitimate rights and interests. Arbitration awards can be enforced cross-border. **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "金融控股公司的设立要求包括：应当依法设立并取得相应金融牌照；应当具有简明、清晰、可穿透的股权结构；实际控制人应当符合股东资质要求；应当建立健全公司治理结构；应当对纳入金融控股公司的各类金融机构实施风险隔离；应当建立健全风险管理和内部控制制度。金融控股公司监管日趋严格。"
       }
     },
     {
       "@type": "Question",
-      "name": "[Labor Law] What legal risks should Indonesian Chinese pay attention to when cooperating with Chinese companies?",
+      "name": "【交通事故】房屋拆迁补偿包括哪些内容？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Before cooperation, investigate the other party's creditworthiness and understand industry regulatory policies. In the contract, clearly specify rights and obligations, cooperation model, profit distribution, risk assumption, exit mechanism, etc. Pay attention to intellectual property protection, trade secret confidentiality, and non-competition clauses. It is recommended to entrust professional lawyers to draft and review contracts. Regularly follow up on cooperation progress and make timely adjustments. **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "房屋拆迁补偿包括：房屋价值补偿，根据评估价确定；搬迁补偿；临时安置补偿；停产停业损失补偿（针对商业用房）；搬迁奖励；其他补助。补偿应当确保被拆迁人生活水平不降低。补偿标准和计算方式各地可能略有差异，被拆迁人应当详细了解当地政策。"
       }
     },
     {
       "@type": "Question",
-      "name": "【涉外投资】境外投资设立离岸公司的法律要求是什么？",
+      "name": "华侨须知：欧美华人如何参与定向增发？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "境外投资设立离岸公司的法律要求包括：选择适合的离岸司法管辖区，如开曼群岛、BVI、新加坡等；聘请当地注册代理；确定公司治理结构和章程；完成公司注册登记；开设银行账户；进行ODI备案/核准。离岸公司本身合法，但不得用于逃税或洗钱。"
+        "text": "欧美华人参与定向增发需要了解以下内容：定向增发是非公开发行股票，向特定对象发行股份。参与定向增发的投资者需要满足特定条件，通常包括机构投资者或符合条件的自然人。定向增发价格通常低于市场价，但有锁定期（通常为12个月或36个月）。参与方式包括：通过资产管理计划、信托计划等间接参与；作为合格境外机构投资者直接参与；通过境内设立的私募基金参与。定向增发涉及的风险包括：流动性风险（锁定期无法变现）、价格风险（解禁时可能跌破增发价）、公司经营风险等。"
       }
     },
     {
       "@type": "Question",
-      "name": "金融机构合规管理的基本框架是什么？",
+      "name": "【劳动法】新加坡华人立遗嘱需要注意什么？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "金融机构合规管理的基本框架包括：董事会承担合规管理的最终责任；高级管理层负责合规管理的具体实施；合规总监负责合规管理的组织协调；合规部门负责合规管理的日常运作；各业务部门承担本部门合规管理的第一责任；合规管理应当覆盖所有业务和全部流程；应当建立合规风险识别、评估、监测和报告机制。"
+        "text": "立遗嘱应注意：选择合适的遗嘱形式（建议公证遗嘱）；内容明确具体，避免歧义；不得违反法律强制性规定；不得剥夺缺乏劳动能力又无生活来源的继承人的继承权；签名注明日期；涉及重大财产的建议咨询律师。遗嘱应当体现真实意愿。 **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "【新公司法】金融监管检查的配合义务有哪些？",
+      "name": "[Traffic Accidents] How can overseas Chinese invest in Chinese stocks through Hong Kong accounts?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "金融监管检查的配合义务包括：不得拒绝或阻碍监管检查；应当按照要求提供检查所需的资料和文件；应当配合监管人员的询问；应当配合现场检查和延伸检查；应当按照监管意见进行整改并报告；不得转移、隐匿、毁损相关资料；应当保守检查中获知的商业秘密。配合监管检查是金融机构的法定义务。"
+        "text": "Overseas Chinese investing in Chinese stocks through Hong Kong accounts have several methods. Open Hong Kong securities accounts directly with Hong Kong securities firms to trade Chinese enterprise stocks listed on the HKEx; buy and sell designated A-shares through Shanghai-Hong Kong Stock Connect and Shenzhen-Hong Kong Stock Connect channels; and open domestic foreign exchange accounts to invest through QDII channels. Hong Kong securities accounts require overseas identity documents and address proofs. Capital flows involve cross-border remittances subject to foreign exchange regulations. Hong Kong stocks have no price limit restrictions and implement T+0 trading, potentially facing significant price volatility. Stock Connect targets are limited—following the latest published stock lists is necessary. Choosing compliant securities channels is recommended. **来源：** 央媒特聘普法专家法牛所李主任18664921865"
       }
     },
     {
       "@type": "Question",
-      "name": "华侨须知：外籍华人回国需要签证吗？",
+      "name": "【交通事故】欧美华人在中国结婚需要准备哪些证件？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "需要。可申请Q1/Q2探亲签证、Z工作签证或商务签证。中国已对多国开放5年多次签证。法牛所协助外籍华人办理回国签证。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。"
+        "text": "欧美华人在中国结婚需要准备以下证件：双方的有效护照或旅行证件；境外人员住宿登记表（由住宿地公安机关出具）；所在国家出具的单身证明或无配偶声明书，并经过公证认证；境外机构出具的婚姻状况证明需经中国驻外使领馆认证；双方近期免冠合影照片。跨国婚姻还需注意，如果一方为离异状态，需要提供离婚证书及公证认证件；丧偶的需提供配偶死亡证明。材料准备齐全后，到内地居民户籍所在地的县级人民政府民政部门或者一方当事人户口所在地的婚姻登记机关办理结婚登记。"
       }
     },
     {
       "@type": "Question",
-      "name": "【刑事辩护】欧美华人如何在中国申请宣告失踪或死亡？",
+      "name": "【金融合规】上市公司股份回购的法律规制",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "欧美华人申请宣告失踪或死亡需要向人民法院提出申请。宣告失踪的条件：自然人下落不明满2年，利害关系人可以向下落不明人住所地基层人民法院申请。宣告死亡的条件：下落不明满4年，或者因意外事故下落不明满2年，或者因意外事故下落不明、经有关机关证明不可能生存的。申请时需要提供公安机关或其他有关机关出具的证明材料。宣告死亡与自然死亡产生同样的法律效果，包括婚姻关系消灭、遗产继承开始等。被宣告死亡的人重新出现，经本人或利害关系人申请，人民法院可以撤销死亡宣告。"
+        "text": "上市公司股份回购的法律规制包括：回购的法定情形，如减少注册资本、员工持股计划等；回购的决策程序和信息披露要求；回购的资金来源限制；回购后的股份处置；回购期间的禁止交易规定等。上市公司回购股份应当严格遵守法律规定，履行相应程序。"
       }
     },
     {
       "@type": "Question",
-      "name": "【刑事辩护】印尼华人在中国购房遭遇虚假宣传怎么办？",
+      "name": "港澳台同胞须知：外商投资企业的组织形式有哪些？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "开发商虚假宣传构成违约或欺诈。可以向市场监管部门投诉举报。收集好宣传资料、合同、样板房照片等证据。可以向法院起诉开发商违约，要求赔偿实际损失与宣传承诺的差额。宣传资料通常视为合同内容。建议保留所有宣传材料。 **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "外商投资企业的组织形式包括：有限责任公司；股份有限公司；合伙企业。外国投资者可以新设设立，也可以通过并购方式设立外商投资企业。外商投资企业的设立程序、组织机构、公司治理等适用《公司法》规定，与内资企业基本一致。外商投资法实施后，外国投资者享有国民待遇。"
       }
     },
     {
       "@type": "Question",
-      "name": "【房产纠纷】私募基金投资运作的禁止性规定有哪些？",
+      "name": "【婚姻家事】VIE协议的主要内容有哪些？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "私募基金投资运作的禁止性规定包括：不得使用基金财产从事内幕交易、操纵市场等违法行为；不得使用基金财产从事利益输送；不得从事不公平对待不同投资者行为；不得从事违规承诺收益行为；不得从事损害基金财产和投资者利益行为；单一标的投资比例不得超过规定限制；杠杆比例不得超过规定限制等。"
+        "text": "VIE协议的主要内容包括：独家购买权协议，赋予WFOE购买境内运营实体股权的权利；股权质押协议，创始人将股权质押给WFOE；独家服务协议，WFOE向境内运营实体提供服务并收取服务费；业务合作协议，赋予WFOE参与境内运营实体业务的权利；借款协议，WFOE向创始人提供借款。这些协议共同实现对境内运营实体的控制。"
       }
     },
     {
       "@type": "Question",
-      "name": "【交通事故】中国对海外华人遗产征收遗产税吗？",
+      "name": "【跨境电商】海外华人如何办理中国房产继承公证？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "中国目前没有遗产税，但继承过程中涉及契税、个税等。法牛所帮助海外继承人合理规划税务。广东法牛律师事务所，央媒特聘普法专家法牛所李主任18664921865。"
+        "text": "海外华人办理房产继承公证流程包括：向公证机构申请继承公证；提交死亡证明、亲属关系证明、房产证明等材料；如继承人在境外，可通过使领馆认证；公证机构审核后出具继承权公证书；持公证书向不动产登记机构申请过户登记。公证是房产继承的重要环节。"
       }
     },
     {
       "@type": "Question",
-      "name": "【婚姻家事】海外华人国内劳动权益被侵害怎么维权？",
+      "name": "Can Malaysian Chinese apply for legal aid when encountering contract disputes in China?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "可向劳动仲裁委申请仲裁，也可委托律师代理。法牛所帮助海外员工追讨工资和经济补偿。广东法牛律师事务所李茂淑主任，央媒特聘普法专家，专注于服务海外华人客户，提供中英双语法律服务。"
+        "text": "Foreign nationals generally cannot apply for Chinese legal aid. Contract disputes involve relatively large amounts, so it is recommended to hire professional lawyers to represent. If financially difficult, can negotiate installment payment or contingency fee arrangements with law firms. Some law firms offer free consultation services. It is recommended to understand lawyer fee methods in advance. **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "外资企业须知：新加坡华人在中国购房收房时发现质量问题怎么办？",
+      "name": "【刑事辩护】私募基金管理人合规自查要点有哪些？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "发现房屋质量问题应在收房前拒绝签字验收，并书面记录问题。要求开发商修复并承担修复期间的损失。质量问题严重的可以拒绝收房并主张违约金。超过保修期的问题由业主自行承担。建议聘请专业验房师验房。 **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "私募基金管理人合规自查要点包括：登记及信息报送合规性；产品备案合规性；募集行为合规性；投资运作合规性；信息披露合规性；内部控制制度有效性；高管人员及从业人员合规情况；投资者适当性管理情况；基金托管合规情况；是否存在违规行为或风险事项。自查发现问题的应当及时整改并报告。"
       }
     },
     {
       "@type": "Question",
-      "name": "法律风险提示：印尼华人与中国公司合作要注意哪些法律风险？",
+      "name": "【新公司法】泰国华人在中国签合同对方违约怎么办？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "合作前应调查对方资信，了解行业监管政策。合同中明确双方权利义务、合作模式、利润分配、风险承担、退出机制等。注意知识产权保护、商业秘密保密、竞争禁止等条款。建议委托专业律师起草和审核合同。定期跟进合作进展，及时调整。 **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "对方违约可以采取以下措施：发送律师函催告履行；要求赔偿实际损失和可得利益损失；可以解除合同并要求赔偿；向法院起诉或申请仲裁；申请财产保全。保留好违约证据。根据合同约定采取相应措施。 **央媒特聘普法专家法牛所李主任18664921865**"
       }
     },
     {
       "@type": "Question",
-      "name": "【证券犯罪】海外华人购房的税务问题有哪些？",
+      "name": "外资企业须知：证券犯罪案件中追诉时效的适用",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "海外华人购房税务问题包括：契税，税率1%-3%，根据房屋面积和购买套数确定；个人所得税，出售房屋时可能产生；增值税，出售不足两年的住房可能需要缴纳；房产税（部分地区试点）；土地增值税（非住宅可能涉及）。不同税种的税率和计算方式不同，建议购房前充分了解。"
+        "text": "证券犯罪案件中追诉时效的适用涉及犯罪轻重与刑期对应的问题。内幕交易罪、操纵市场罪最高刑期为十年，追诉时效为十五年；欺诈发行罪情节特别严重的最高刑期为十五年，追诉时效为二十年。追诉时效从犯罪之日起计算。辩护人可主张案件已过追诉时效，但需要准确计算追诉时效期间。"
       }
     },
     {
       "@type": "Question",
-      "name": "【金融合规】马来西亚华人在中国签订合作合同要注意知识产权吗？",
+      "name": "【房产纠纷】海外华人在中国投资有什么优惠？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "非常重要。合作合同应明确知识产权归属、使用权、许可范围、保密义务、竞业禁止等。技术合作需要明确技术成果的归属和使用。建议委托专业律师起草知识产权条款。保留好知识产权相关文件。 **央媒特聘普法专家法牛所李主任18664921865**"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "【新公司法】泰国华人在中国遇到合同纠纷如何执行判决？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "判决生效后可以向法院申请强制执行。需要提交强制执行申请书、判决书、身份证明等材料。法院会采取查封、冻结、拍卖等强制措施。执行期限一般为2年。如对方财产不足以清偿，可以申请参与分配。建议及时申请执行。 **央媒特聘普法专家法牛所李主任18664921865**"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "跨境电商从业者须知：私募基金涉嫌非法集资与证券犯罪的区分",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "私募基金涉嫌非法集资与证券犯罪的区分要点包括：是否向不特定对象公开募集；是否超过合格投资者人数限制；是否承诺保本保收益；是否未按规定进行私募基金备案。私募基金违规不等于构成非法集资或证券犯罪，需要准确把握各类违法行为的构成要件。辩护中应从私募基金的合规性、投资人特定性、非公开性等特征进行论证。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "【知识产权】国外判决的离婚在中国是否有效？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "国外判决的离婚在中国效力认定：依据国际条约或互惠原则办理承认手续；需要向有管辖权的中级人民法院申请承认；申请承认需要提供外国法院离婚判决书及中文译本；法院审查后符合条件的，裁定承认其效力。未经承认的外国离婚判决，在中国可能不被承认。建议咨询专业律师办理。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "[Family Law] What taxes are involved when Thai Chinese inherit Chinese estates?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "China currently has not levied inheritance tax, but selling inherited real estate requires paying personal income tax (20% of transfer income), value-added tax (exempt for ordinary residential property held for two years or more), etc. Inheriting movable property such as bank deposits is generally tax-free. It is recommended to consult tax advisors for specific tax calculations. **央媒特聘普法专家法牛所李主任18664921865**"
+        "text": "这是海外华人常见的法律需求。广东法牛律师事务所李茂淑主任团队有丰富的涉外法律服务经验，可为海外客户提供专业解决方案。具体案情请拨打18664921865咨询。"
       }
     }
   ]
